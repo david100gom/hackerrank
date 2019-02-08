@@ -1,0 +1,5 @@
+Payment Overdue
+
+You have 1 charge(s) past due.
+Please pay the full amount to avoid suspension or termination of your AWS account.
+If you have recently made a payment, please allow up to 24 hours to have the payment(s) reflect in the Payment History page before contacting Customer Support.

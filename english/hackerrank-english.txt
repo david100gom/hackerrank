@@ -1,1 +1,6 @@
 criterion : (판단이나 결정을 위한) 기준
+Constraints : 제약
+denote : 의미하다,나타내다.
+explanation :  설명, 설명서
+choose > chose > chosen
+absolute difference : 절대차

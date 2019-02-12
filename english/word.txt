@@ -85,3 +85,5 @@ rhyme - 라임(운문)
 It is what it is - 뭐 어쩌겠어요.
 
 Do you have anything to read? - 읽을 만한 게 있을까요?
+
+maintenance - 유지 보수

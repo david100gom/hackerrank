@@ -1,0 +1,101 @@
+Picking numbers
+
+import java.io.*;
+import java.math.*;
+import java.security.*;
+import java.text.*;
+import java.util.*;
+import java.util.concurrent.*;
+import java.util.regex.*;
+
+public class Solution {
+
+    // Complete the pickingNumbers function below.
+    static int pickingNumbers(int[] a) {
+        int lastCount = 0;
+
+        for(int arr : a) {
+
+            int pulsCount = 0;
+            int minusCount = 0;
+            int temp = 0;
+
+            for(int arr2 : a) {
+                if((Math.abs(arr - arr2)) <= 1) {
+                    if((arr - arr2) > 0) {
+                        pulsCount++;
+                    }else if((arr - arr2) < 0) {
+                        minusCount++;
+                    }else{
+                        pulsCount++;
+                        minusCount++;
+                    }
+                }
+            }
+
+            if(pulsCount >= minusCount) {
+                temp = pulsCount;
+            }else{
+                temp = minusCount;
+            }
+
+            if(lastCount <= temp)
+                lastCount = temp;
+        }
+
+        return lastCount;
+    }
+
+    private static final Scanner scanner = new Scanner(System.in);
+
+    public static void main(String[] args) throws IOException {
+        BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(System.getenv("OUTPUT_PATH")));
+
+        int n = scanner.nextInt();
+        scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
+
+        int[] a = new int[n];
+
+        String[] aItems = scanner.nextLine().split(" ");
+        scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
+
+        for (int i = 0; i < n; i++) {
+            int aItem = Integer.parseInt(aItems[i]);
+            a[i] = aItem;
+        }
+
+        int result = pickingNumbers(a);
+
+        bufferedWriter.write(String.valueOf(result));
+        bufferedWriter.newLine();
+
+        bufferedWriter.close();
+
+        scanner.close();
+    }
+}
+
+solution 2
+
+import java.io.*;
+import java.util.*;
+import java.text.*;
+import java.math.*;
+import java.util.regex.*;
+
+public class Solution {
+
+    public static void main(String[] args) {
+        Scanner in = new Scanner(System.in);
+        int n = in.nextInt();
+        int[] a = new int[100];
+        for(int a_i=0; a_i < n; a_i++){
+            a[in.nextInt()]++;
+        }
+        int max = 0;
+        for (int i = 0; i < 99; i++) {
+            max = Math.max(max, a[i]+a[i+1]);
+        }
+        System.out.println(max);
+    }
+}

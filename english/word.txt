@@ -98,4 +98,7 @@ Sorry, he is not in
 Sorry, he is not available right now.
 
 
+When someone hogs all the limelight
 
+hogs : 독차지하다.
+limelight : 각광, 세상의 이목

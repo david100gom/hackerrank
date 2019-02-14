@@ -102,3 +102,10 @@ When someone hogs all the limelight
 
 hogs : 독차지하다.
 limelight : 각광, 세상의 이목
+
+calibration : 측정
+
+Sorry, she is on a business trip
+Sorry, she is away from her desk.
+
+I'm returning her call

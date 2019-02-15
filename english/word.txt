@@ -109,3 +109,10 @@ Sorry, she is on a business trip
 Sorry, she is away from her desk.
 
 I'm returning her call
+
+preparation :  준비
+Sock : 양말
+Merchant : 무역상
+
+Would you like to hold ?
+Would you like to talk to someone els?

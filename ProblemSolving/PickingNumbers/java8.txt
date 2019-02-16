@@ -1,4 +1,4 @@
-Picking numbers
+[solution 1]
 
 import java.io.*;
 import java.math.*;
@@ -75,7 +75,7 @@ public class Solution {
     }
 }
 
-solution 2
+[solution 2]
 
 import java.io.*;
 import java.util.*;

@@ -4,3 +4,7 @@ denote : 의미하다,나타내다.
 explanation :  설명, 설명서
 choose > chose > chosen
 absolute difference : 절대차
+squares :  벽돌, 정사각형
+contiguous: 인접한, 근접한
+segment : 부분
+determine : 결정하다

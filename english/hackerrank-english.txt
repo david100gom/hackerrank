@@ -8,3 +8,5 @@ squares :  벽돌, 정사각형
 contiguous: 인접한, 근접한
 segment : 부분
 determine : 결정하다
+denote : 의미하다 나타내다
+criteria : 규준 표준 기준

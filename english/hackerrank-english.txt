@@ -10,3 +10,4 @@ segment : 부분
 determine : 결정하다
 denote : 의미하다 나타내다
 criteria : 규준 표준 기준
+viceversa - 거꾸로, 반대로

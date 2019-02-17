@@ -3,4 +3,10 @@ Would you like him to return your call? 그가 전화 다시 주기를 원하세
 Would you like to speak to his secretary? 그분 비서와 통화하시겠어요?
 
 
-viceversa - 거꾸로, 반대로
+
+
+Is Linda in?
+Oh, you just missed her.
+Would you like to leave a message?
+Yes, please tell her David called.
+sure thing. I'll have her call you back.

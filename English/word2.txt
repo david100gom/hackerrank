@@ -68,4 +68,10 @@ My name is David, I'm a computer programmer.
 I'll put you through. - 연결해 드리겠습니다.
 
 
+Could I speak to KIM?
+Could I speak to Jane in HR?
+Could I speak to the team leader?
+Could I speak to someone in Purchasing?
+Could I speak to someone who can help me with my order?
+
 

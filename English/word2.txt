@@ -11,7 +11,6 @@ Would you like to leave a message?
 Yes, please tell her David called.
 sure thing. I'll have her call you back.
 
-
 May I have[know] ~ ? ~을 알수 있을까요?
 
 May I have your full name?
@@ -56,3 +55,17 @@ Hello, Jack speaking
 Hi Jack, this is David from KP.
 Hey, David How have you been?
 Fantastic. And yourself? = And How about you?
+
+I'm a job applicant
+I'm a customer.
+I'm a friend of his.
+I'm a his brother.
+I'm a supplier.
+
+Hello, could I speak to Mr. Thomas?
+Sure. May I tell him who's calling.
+My name is David, I'm a computer programmer.
+I'll put you through. - 연결해 드리겠습니다.
+
+
+

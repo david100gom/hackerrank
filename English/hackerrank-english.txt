@@ -17,3 +17,4 @@ inclusive : 폭넓은, 포괄적인, ~부터 ~까지
 digit : 숫자
 
 mutation : 돌연변이, 변화
+traversal : 가로지르는, 횡단하다, 횡단.

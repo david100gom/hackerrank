@@ -15,3 +15,5 @@ distinct : 뚜렷한 확실한
 diagonal : 사선의, 대각선의
 inclusive : 폭넓은, 포괄적인, ~부터 ~까지
 digit : 숫자
+
+mutation : 돌연변이, 변화

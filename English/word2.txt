@@ -151,3 +151,10 @@ I'm calling to discuss the project.
 
 Beverage :  음료
 
+I'm calling to change my reservation.
+
+Hi. ms lee. How have you been?
+Great, How about yourself?
+I've been busy. How can I help you today?
+
+Well, I'm calling to see if you're free for lunch.

@@ -1,0 +1,179 @@
+[solution 1]
+
+package solution;
+
+import java.io.*;
+import java.math.*;
+import java.security.*;
+import java.text.*;
+import java.util.*;
+import java.util.concurrent.*;
+import java.util.regex.*;
+
+public class FormingMagicSquare {
+
+    // Complete the formingMagicSquare function below.
+    static int formingMagicSquare(int[][] s) {
+
+        int[][] a1 = {{8,3,4},{1,5,9},{6,7,2}};
+        int[][] a2 = {{6,7,2},{1,5,9},{8,3,4}};
+        int[][] a3 = {{4,3,8},{9,5,1},{2,7,6}};
+        int[][] a4 = {{2,7,6},{9,5,1},{4,3,8}};
+
+        int[][] a5 = {{8,1,6},{3,5,7},{4,9,2}};
+        int[][] a6 = {{4,9,2},{3,5,7},{8,1,6}};
+        int[][] a7 = {{6,1,8},{7,5,3},{2,9,4}};
+        int[][] a8 = {{2,9,4},{7,5,3},{6,1,8}};
+
+        int[][] a = new int[3][3];
+
+        int sum1 = 0;
+        int sum2 = 0;
+        int sum3 = 0;
+        int sum4 = 0;
+        int sum5 = 0;
+        int sum6 = 0;
+        int sum7 = 0;
+        int sum8 = 0;
+
+        for(int m=0; m < 3; m++) {
+            for(int n=0; n < 3; n++) {
+                //System.out.println("x="+m+", y="+n+" : a[x][y] => "+a[m][n]);
+                sum1 += Math.abs(a1[m][n] - s[m][n]);
+                sum2 += Math.abs(a2[m][n] - s[m][n]);
+                sum3 += Math.abs(a3[m][n] - s[m][n]);
+                sum4 += Math.abs(a4[m][n] - s[m][n]);
+
+                sum5 += Math.abs(a5[m][n] - s[m][n]);
+                sum6 += Math.abs(a6[m][n] - s[m][n]);
+                sum7 += Math.abs(a7[m][n] - s[m][n]);
+                sum8 += Math.abs(a8[m][n] - s[m][n]);
+            }
+        }
+
+        ArrayList<Integer> list = new ArrayList<Integer>();
+        list.add(sum1);
+        list.add(sum2);
+        list.add(sum3);
+        list.add(sum4);
+        list.add(sum5);
+        list.add(sum6);
+        list.add(sum7);
+        list.add(sum8);
+
+        Integer result = Collections.min(list);
+
+        return result;
+    }
+
+    private static final Scanner scanner = new Scanner(System.in);
+
+    public static void main(String[] args) throws IOException {
+        BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(System.getenv("OUTPUT_PATH")));
+
+        int[][] s = new int[3][3];
+
+        for (int i = 0; i < 3; i++) {
+            String[] sRowItems = scanner.nextLine().split(" ");
+            scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
+
+            for (int j = 0; j < 3; j++) {
+                int sItem = Integer.parseInt(sRowItems[j]);
+                s[i][j] = sItem;
+            }
+        }
+
+        int result = formingMagicSquare(s);
+        System.out.println("result : "+result);
+
+        bufferedWriter.write(String.valueOf(result));
+        bufferedWriter.newLine();
+        bufferedWriter.close();
+
+        scanner.close();
+    }
+}
+
+[other magic square]
+
+1 이 무조건 존재해야함.
+
+    int x = 0;
+    int y = 0;
+
+    for(int m=0; m < 3; m++) {
+        for(int n=0; n < 3; n++) {
+            if(s[m][n] == 1) {
+                x = m;
+                y = n;
+                break;
+            }
+        }
+    }
+
+    a[x][y] = 1;
+
+    for(int k=2; k < 10; k++) {
+
+        if(a[x][y] % 3 == 0) {
+            x = x+1;
+            if (x == 3) {
+                x = 0;
+            }
+
+            a[x][y] = k;
+            continue;
+        }
+
+        x=x-1;
+        y=y+1;
+
+        if(x == -1) {
+            x = 2;
+        }
+
+        if(y == 3) {
+            y = 0;
+        }
+
+        a[x][y] = k;
+    }
+
+[solution2]
+
+import java.io.*;
+import java.util.*;
+
+public class Solution {
+
+    public static void main(String[] args) {
+        Scanner s = new Scanner(System.in);
+		int[][] m = new int[3][3];
+		for (int x = 0; x < 3; x++) {
+			for (int y = 0; y < 3; y++) {
+				m[x][y] = s.nextInt();
+			}
+		}
+
+		int[][][] p = {{{8, 1, 6}, {3, 5, 7}, {4, 9, 2}},
+					{{6, 1, 8}, {7, 5, 3}, {2, 9, 4}},
+					{{8, 3, 4}, {1, 5, 9}, {6, 7, 2}},
+					{{6, 7, 2}, {1, 5, 9}, {8, 3, 4}},
+					{{4, 9, 2}, {3, 5, 7}, {8, 1, 6}},
+					{{2, 9, 4}, {7, 5, 3}, {6, 1, 8}},
+					{{2, 7, 6}, {9, 5, 1}, {4, 3, 8}},
+					{{4, 3, 8}, {9, 5, 1}, {2, 7, 6}}};
+		int min = 100;
+		for (int i = 0; i < 8; i++) {
+			int diff = 0;
+			for (int x = 0; x < 3; x++) {
+				for (int y = 0; y < 3; y++) {
+					diff += Math.abs(p[i][x][y] - m[x][y]);
+				}
+			}
+			if (diff < min)
+				min = diff;
+		}
+		System.out.println(min);
+    }
+}

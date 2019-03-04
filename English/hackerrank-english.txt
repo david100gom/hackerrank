@@ -18,3 +18,5 @@ digit : 숫자
 
 mutation : 돌연변이, 변화
 traversal : 가로지르는, 횡단하다, 횡단.
+subtract : (수,양을) 빼다.
+respectively : 각자, 각각, 제각기.

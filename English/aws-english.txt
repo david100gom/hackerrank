@@ -6,3 +6,19 @@ If you have recently made a payment, please allow up to 24 hours to have the pay
 
 Your deployment is underway
 Your deployment is complete
+
+threshold : 한계점.
+
+Temperature : 온도
+Relative Humidity : 상대습도
+Ambient Light : 조도
+Barometric Pressure : 기압
+Sound Noise : 노이즈
+eTVOC : equivalent Total Volatile Organic Compound 휘발성유기화합물
+eCO2 : equivalent CO2 이산화탄소
+Discomfort Index : 불쾌지수
+Heat Stroke : 열사병
+Seismic Intensity : 지진강도
+Acceleration X-axis : X측 가속도
+Acceleration Y-axis : Y측 가속도
+Acceleration Z-axis : Z측 가속도

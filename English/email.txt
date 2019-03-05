@@ -2,6 +2,9 @@ It's great that you've decided to start using Confluence!
 Did you know we have an accompanying mobile app? Downloading and using the Confluence Cloud mobile app will help you stay up to date on the go.
 Download the Confluence Cloud app today for iOS or Android to stay in touch with your team on the go and get the most out of Confluence.
 
-
-
 negotiation : 협상
+
+Thanks for using Confluence Cloud. We’d love to hear how you feel about it in this quick online survey.
+We will be reading every response.
+
+Your honest feedback helps us make Confluence Cloud better for you and your team.

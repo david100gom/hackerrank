@@ -1,51 +1,4 @@
 [solution 1]
-public class Solution6 {
-
-    public static void main(String[] args) throws IOException {
-
-        int[] scores = {100,90,90,80,75,60};
-        int[] alice = {50,65,77,90,102};
-
-        TreeSet<Integer> set = new TreeSet<Integer>();
-
-        for(int s: scores) {
-            set.add(s);
-        }
-
-        NavigableSet<Integer> scores2 = set.descendingSet();
-
-        int rank;
-        int aliceLength = alice.length;
-        int k = aliceLength-1;
-        int z = scores2.size();
-        int[] result = new int[aliceLength];
-
-        for(int j=k;j >= 0;j--) {
-            rank = 0;
-            for(int st: scores2) {
-                if(st <= alice[j]) {
-                    result[j] = rank+1;
-                    break;
-                }
-                rank++;
-            }
-            k--;
-        }
-
-        if(alice[0] < scores2.last()) {
-            result[0] = z+1;
-        }
-
-        for(int r: result) {
-            System.out.println(r);
-        }
-
-    }
-}
-
-
-
-[solution 2]
 public class Solution {
 
     public static void main(String[] args) {
@@ -104,7 +57,7 @@ public class Solution {
 
 }
 
-[solution 3]
+[solution 2]
 int rank = 1;
 int idx1 = 0;
 int idx2 = alice.length-1;
@@ -121,3 +74,49 @@ while(idx2 >= 0) {
 }
 
 return alice;
+
+[solution 3- fail]
+public class Solution6 {
+
+    public static void main(String[] args) throws IOException {
+
+        int[] scores = {100,90,90,80,75,60};
+        int[] alice = {50,65,77,90,102};
+
+        TreeSet<Integer> set = new TreeSet<Integer>();
+
+        for(int s: scores) {
+            set.add(s);
+        }
+
+        NavigableSet<Integer> scores2 = set.descendingSet();
+
+        int rank;
+        int aliceLength = alice.length;
+        int k = aliceLength-1;
+        int z = scores2.size();
+        int[] result = new int[aliceLength];
+
+        for(int j=k;j >= 0;j--) {
+            rank = 0;
+            for(int st: scores2) {
+                if(st <= alice[j]) {
+                    result[j] = rank+1;
+                    break;
+                }
+                rank++;
+            }
+            k--;
+        }
+
+        if(alice[0] < scores2.last()) {
+            result[0] = z+1;
+        }
+
+        for(int r: result) {
+            System.out.println(r);
+        }
+
+    }
+}
+

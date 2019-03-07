@@ -22,3 +22,5 @@ Seismic Intensity : 지진강도
 Acceleration X-axis : X측 가속도
 Acceleration Y-axis : Y측 가속도
 Acceleration Z-axis : Z측 가속도
+
+inference : 추론

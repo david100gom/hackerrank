@@ -41,24 +41,6 @@ public class Solution6 {
         }
 
     }
-
-    public static void binarySearch(int iKey, int arr[]) {
-        int mid;
-        int left = 0;
-        int right = arr.length - 1;
-
-        while (right >= left) {
-            mid = (right + left) / 2;
-            if (iKey == arr[mid]) {
-                break;
-            }
-            if (iKey < arr[mid]) {
-                right = mid - 1;
-            } else {
-                left = mid + 1;
-            }
-        }
-    }
 }
 
 
@@ -112,7 +94,7 @@ public class Solution {
         if(end-start <= 1) return end;
         int mid = (start+end)/2;
         if(scores[mid] < alice){
-            return binarySearch(scores,start, mid,alice);
+            return binarySearch(scores,start,mid,alice);
         }else if(scores[mid] == alice){
             return mid;
         }else{
@@ -121,3 +103,21 @@ public class Solution {
     }
 
 }
+
+[solution 3]
+int rank = 1;
+int idx1 = 0;
+int idx2 = alice.length-1;
+
+while(idx2 >= 0) {
+    if(idx1 == scores.length || alice[idx2] >= scores[idx1]){
+        alice[idx2] = rank;
+        idx2--;
+    }else{
+        if(idx1 == 0 || scores[idx1] != scores[idx1-1])
+            rank++;
+        idx1++;
+    }
+}
+
+return alice;

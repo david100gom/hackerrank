@@ -38,3 +38,6 @@ No problem, Are you free now?
 
 Sorry, but I have maybe two minutes to talk.
 Do you want me to call you later this afternoon then?
+
+fragment : 조각 파편
+

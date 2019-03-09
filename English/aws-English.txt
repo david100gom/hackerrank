@@ -24,3 +24,5 @@ Acceleration Y-axis : Y측 가속도
 Acceleration Z-axis : Z측 가속도
 
 inference : 추론
+fragment : 조각 파편
+

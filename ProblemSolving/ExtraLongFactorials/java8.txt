@@ -1,0 +1,31 @@
+[Solution 1]
+// Complete the extraLongFactorials function below.
+static BigInteger extraLongFactorials(BigInteger n) {
+
+  if (n.compareTo(BigInteger.valueOf(1)) == 0)
+      return BigInteger.valueOf(1);
+  else
+      return extraLongFactorials(n.subtract(BigInteger.valueOf(1))).multiply(n);
+
+}
+
+private static final Scanner scanner = new Scanner(System.in);
+
+public static void main(String[] args) {
+    int n = scanner.nextInt();
+    scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
+
+    System.out.println(extraLongFactorials(BigInteger.valueOf(n)));
+
+    scanner.close();
+}
+
+[Solution 2]
+public static BigInteger factorial(int n) {
+
+    BigInteger result = BigInteger.ONE;
+    for(int i=1; i <= n; i++)
+        result = result.multiply(BigInteger.valueOf(i));
+    return result;
+
+}

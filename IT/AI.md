@@ -84,3 +84,10 @@ tpu : 구글내부개발
 
 ### Backend.AI 소개
 - www.backend.ai
+
+Estimator : 평가자
+Classifier : 분류
+regressor : 회귀
+
+Supervised Learning : 지도학습
+Unsupervised Learning : 비지도학습

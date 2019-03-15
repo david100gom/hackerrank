@@ -23,3 +23,6 @@ You have created a Docker ID with the username: gomkwc. As an extra security mea
 Confirm Your Email With Docker
 Note: this link will expire in 2 days.
 You have received this email because the user gomkwc has requested to add this email to the Docker account at hub.docker.com. You can safely disregard this message if you did not add this email address.
+
+
+You can start learning right away. Courses follow a week-based schedule, and you can go faster, if you like.

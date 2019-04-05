@@ -234,3 +234,22 @@ luncheon : 오찬
 Thanks so much for inviting me to the global seminar on Monday.
 I'd be pleased to attend the seminar.
 Please let me know if you would like me to prepare anything.
+
+
+[47]
+Unfortunately, I won't be able to attend due to...
+
+Unfortunately, I won't be able to attend due to a conflicting schedule.
+Unfortunately, I won't be able to attend due to a business trip.
+Unfortunately, I won't be able to attend due to family matters.
+Unfortunately, I won't be able to attend due to a prior engagement.
+
+Thank you for inviting me to the presentation.
+Unfortunately, I  won't be able to attend due to an internal meeting.
+I wish I could miss this meeting, but our director has insisted that I attend.
+
+insist :고집하다 주장하다
+
+
+
+

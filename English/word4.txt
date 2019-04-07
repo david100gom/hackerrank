@@ -253,3 +253,16 @@ insist :고집하다 주장하다
 
 
 
+[48]
+
+I would like to receive your reply by ... / Please send me your reply by ...
+
+I would like to receive your reply by tomorrow.
+I would like to receive your reply by next week.
+I would like to receive your reply by 2 pm this afternoon.
+I would like to receive your reply by the end of the business day.
+
+
+Yolanda, it's imperative that you give me some form of an answer.
+I would like to receive your reply by no later than noon tomorrow.
+Otherwise, we can't move forward with project.

@@ -41,3 +41,21 @@ We are a leading online game company in Korea.
 We are a leading manufacturer of office supplies in Korea.
 We produce everything from paper clips to staplers
 Our current domestic market share is close to 25%
+
+[52]
+We specialize in...
+
+ergonomic :  인체공학적인...
+affordable : 적정한 가격
+peripheral : 주변기기
+variety : 다양한
+reference : 참고, 참조, 언급.
+
+We specialize in ergonomic chairs for the office.
+We specialize in affordable calculator.
+We specialize in developing office designs.
+We specialize in creating innovative laptop peripherals
+
+We specialize in customized apps for clients in a variety of industries
+Our clients include Global 500 companies in Asia, Europe, and South America.
+The client list is attached for your reference.

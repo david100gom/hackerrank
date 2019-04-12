@@ -1,0 +1,19 @@
+static String encryption(String s) {
+
+      int x = s.length();
+      int y = (int) Math.ceil(Math.sqrt(n));
+
+      String rst = "";
+
+      for(int i=0; i < y; i++){
+          int pos = i;
+          while(pos < x){
+              rst += s.charAt(pos);
+              pos +=y;
+          }
+          rst += " ";
+      }
+
+      return rst;
+
+}

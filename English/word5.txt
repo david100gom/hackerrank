@@ -200,3 +200,16 @@ I haven't received the order placed on February 10
 Could you please check up on the status of that shipment as soon as you can?
 
 
+[62]
+The product is ...
+
+The product is defective.
+The product is the wrong order.
+The product was damaged
+The product are not functioning properly
+
+The product I received is the wrong model.
+What I had ordered was your largest generator, model #L1A
+What I received is the second largest, model #L2A
+
+

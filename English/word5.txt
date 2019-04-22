@@ -212,4 +212,19 @@ The product I received is the wrong model.
 What I had ordered was your largest generator, model #L1A
 What I received is the second largest, model #L2A
 
+[63]
+
+There is an error on ...
+
+There is an error on the document.
+There is an error on the invoice
+There is an error on the bill of lading.
+There is an error on the billing statement
+There is an error on the spreadsheet
+
+
+There is an error on the product list
+On page 3, there is an entry for "Item T-107"
+I believe it should be "Item T-207"
+
 

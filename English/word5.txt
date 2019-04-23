@@ -241,5 +241,19 @@ Yesterday, I called Jim Moran to place an order.
 And I was quite disappointed with his response.
 He said that he would no longer take orders over the phone.
 
+[65]
+Please send us ...
+
+Please send us a replacement.
+Please send us a new one.
+Please send us the missing items.
+Please send us the corrected statements.
+Please send us the original documents.
+
+We've received our order today, but for some reason, there was no invoice for it
+Please send us the invoice as soon as possible.
+As you know, it takes two weeks to process payment.
+
+
 
 

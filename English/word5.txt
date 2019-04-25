@@ -268,3 +268,20 @@ We appreciate your taking the time to tell us what happened at the store.
 We fully understand why you would be upset.
 Please rest assured that we will investigate the incident immediately.
 
+[67]
+
+We are sorry to hear...
+
+We are sorry to hear about the incident.
+We are sorry to hear about the way you were treated.
+We are sorry to hear that you were dissatisfied with the service.
+We are sorry to hear that the product was damaged.
+
+
+freight : 화물
+
+We are sorry to hear that your order arrived late.
+As soo as we received your e-mail, we called the freight forwarder for an explanation.
+They have promised an answer by tomorrow.
+
+

@@ -255,5 +255,16 @@ Please send us the invoice as soon as possible.
 As you know, it takes two weeks to process payment.
 
 
+[66]
 
+We appreciate your taking the time to
+
+We appreciate your taking the time to write us an e-mail.
+We appreciate your taking the time to express your concerns
+We appreciate your taking the time to tell us about the problem.
+We appreciate your taking the time to give us valuable feedback on our service.
+
+We appreciate your taking the time to tell us what happened at the store.
+We fully understand why you would be upset.
+Please rest assured that we will investigate the incident immediately.
 

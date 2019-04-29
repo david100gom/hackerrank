@@ -311,3 +311,14 @@ The right sample is being sent to you via express mail.
 It should reach you in two working days.
 
 
+[70]
+Due to an oversight....
+
+Due to an oversight, we sent you the wrong color
+Due to an oversight, the numbers were switched.
+Due to an oversight, we e-mailed you another client's statement.
+Due to an oversight, the store misplaced your suit.
+
+Due to an oversight, your request was not processed yesterday.
+I personally processed it this morning, so you should get an answer by tomorrow morning.
+I apologize for any inconvenience this may have caused you.

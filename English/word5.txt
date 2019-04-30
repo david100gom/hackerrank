@@ -322,3 +322,17 @@ Due to an oversight, the store misplaced your suit.
 Due to an oversight, your request was not processed yesterday.
 I personally processed it this morning, so you should get an answer by tomorrow morning.
 I apologize for any inconvenience this may have caused you.
+
+[71]
+We will exchange the item.
+We will refund the balance
+We will revise the statement.
+We will provide a discount.
+We will replace the photo copier immediately
+
+We will have our rep stop by your office tomorrow
+Her name is Jasmine Lee, and she will work with you to remedy the problem.
+She will be contacting you today.
+
+
+

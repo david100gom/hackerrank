@@ -334,5 +334,15 @@ We will have our rep stop by your office tomorrow
 Her name is Jasmine Lee, and she will work with you to remedy the problem.
 She will be contacting you today.
 
+[72]
+Unfortunately, we are unable to ...
+
+Unfortunately, we are unable to accommodate your request.
+Unfortunately, we are unable to cancel your order.
+Unfortunately, we are unable to change the date
+Unfortunately, we are unable to send you a different model.
+
+Unfortunately, we are unable to process your claim
+We have thoroughly checked our records, but there is no indication that there was any error during the packing
 
 

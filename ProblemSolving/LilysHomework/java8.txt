@@ -1,0 +1,92 @@
+import java.util.Arrays;
+import java.util.HashMap;
+import java.util.Map;
+
+public class Lilys {
+
+    public static void main(String[] args) {
+
+        int[] arr = {2,5,3,1};
+        int n = arr.length;
+
+        int[] sorted = new int[n];
+        int[] reversed = new int[n];
+        Map<Integer, Integer> map = new HashMap<>();
+        for(int i = 0; i < n; i++){
+            // 있는 순서대로 배열에 다시 넣음
+            sorted[i] = arr[i];
+            // 음수로 만들어서 있는 순서대로 배열에 다시 넣음
+            reversed[i] = -arr[i];
+            // 추후 swap 하기 위해 위치(index) 저장
+            map.put(arr[i], i);
+        }
+
+        int[] diffs = new int[n];
+        diffs[0] = 0;
+        for(int i = 1; i < n; i++){
+            diffs[i] = arr[i] - arr[0];
+
+            System.out.println("Diffs array : "+diffs[i]);
+        }
+
+        Arrays.sort(diffs);
+        int pos = 0;
+        int neg = 0;
+        for(int diff : diffs){
+            if(diff > 0){
+                pos++;
+            }
+            if(diff < 0){
+                neg++;
+            }
+        }
+
+        // pos 와 neg 의 크기 비교후 sort
+         boolean sortAscending = pos > neg;
+         if(sortAscending){
+             // 오름차순
+             Arrays.sort(sorted);
+         } else {
+             // 내림차순
+             Arrays.sort(reversed);
+             for(int i = 0; i < n; i++){
+                 reversed[i] *= -1;
+             }
+             sorted = reversed;
+         }
+
+        for(int i=0; i < sorted.length; i++) {
+            System.out.println("sorted array : "+sorted[i]);
+        }
+
+
+        int swaps = 0;
+        for(int i = 0; i < n; i++){
+
+            // int[] arr = {2,5,3,1};
+            // int[] sorted =  {1,2,3,5};
+            if(sorted[i] != arr[i]){
+                swaps++;
+                int targetIndex = map.get(sorted[i]);
+                int temp = arr[targetIndex];
+
+                System.out.println("targetIndex : "+targetIndex+", temp : "+temp+", i : "+i);
+
+                // i = 0
+                // sorted[0] = 1
+                // targetIndex = 3,
+                // temp = 1
+                // arr[3] = 2
+                // arr[0] = 1
+
+                arr[targetIndex] = arr[i];
+                arr[i] = temp;
+
+                // 변경된 위치 매핑.
+                map.put(arr[targetIndex], targetIndex);
+            }
+        }
+
+        System.out.println(swaps);
+    }
+}

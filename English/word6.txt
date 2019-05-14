@@ -191,13 +191,22 @@ You're in luck. We've got some great outdoor markets here
 Really? Is there one nearby?
 It's probably a five-minute walk
 
+[87]
+
+What do you do ..?
+
+What do you do in your spare time?
+What do you do on the weekends?
+What do you do for recreation?
+What do you do for relaxation?
+
+What do you do when you're not working?
 
 
-
-
-
-
-
+I exercise whenever I have time.
+Oh, yeah? what do you do for exercise?
+Usually I go jogging. And sometimes I go cycling.
+Really now? I enjoy cycling, too. Mountain bikes?
 
 
 

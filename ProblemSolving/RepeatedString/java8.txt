@@ -1,0 +1,70 @@
+package solution;
+
+public class RepeatedString {
+
+    public static void main(String[] args) {
+
+        // solution 1
+        String s = "aba";
+        long n = 10;
+
+        int strLength = s.length();
+        long per = n/strLength;
+        long remain = n%strLength;
+        String remainStr = s.substring(0, (int)remain);
+
+        long lineCnt = 0;
+        int fromIndex = -1;
+        while ((fromIndex = s.indexOf("a", fromIndex + 1)) >= 0) {
+            lineCnt++;
+        }
+        lineCnt = lineCnt*per;
+
+        fromIndex = -1;
+        while ((fromIndex = remainStr.indexOf("a", fromIndex + 1)) >= 0) {
+            lineCnt++;
+        }
+
+        System.out.println(lineCnt);
+
+        // solution 2
+        lineCnt = 0;
+
+        for(int i=0;i < strLength;i++) {
+            if(s.charAt(i) == 'a')
+                lineCnt++;
+        }
+
+        for(char c : s.toCharArray())
+            if(c == 'a')
+              lineCnt++;
+
+        lineCnt = lineCnt*per;
+
+        for(int i=0;i < remain;i++) {
+            if(remainStr.charAt(i) == 'a')
+                lineCnt++;
+        }
+
+        System.out.println(lineCnt);
+
+
+        // solution 3
+        lineCnt = 0;
+
+        for(char c : s.toCharArray())
+            if(c == 'a')
+              lineCnt++;
+
+        lineCnt = lineCnt*per;
+
+        for(int i=0;i < remain;i++) {
+            if(remainStr.charAt(i) == 'a')
+                lineCnt++;
+        }
+
+        System.out.println(lineCnt);
+
+    }
+
+}

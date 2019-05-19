@@ -272,6 +272,23 @@ The screen on this one is a little small. Is that all right?
 That'll be fine.
 
 
+[92]
+
+Would you like ~ ?
+
+Would you like a bottle of water?
+Would you like some coffee?
+Would you like a sandwich?
+Would you like a pen and a pad?
+Would you like a chair?
+
+Would you like a flip chart?
+Yes, that would make things easier.
+There's one next door. I'll be right back with it.
+I appreciate that
+
+
+
 
 
 

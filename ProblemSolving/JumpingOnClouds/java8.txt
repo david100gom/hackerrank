@@ -1,0 +1,28 @@
+public class JumpingOnClouds {
+
+    public static void main(String[] args) {
+
+        int c[] = {0,0,1,0,0,1,0};
+
+        int i = 0;
+        int count = 0;
+        int cLen = c.length;
+
+        for(int a: c) {
+
+            if(((i+2) <= cLen-1) && (c[i+2] != 1)) {
+                count++;
+                i += 2;
+            }else if(((i+1) <= cLen-1) && (c[i+1] != 1)) {
+                count++;
+                i += 1;
+            }
+
+            if(i >= cLen-1)
+                break;
+        }
+
+        System.out.println(count);
+    }
+
+}

@@ -370,5 +370,24 @@ We're here today to decide on the name for the new product
 There are twelve potential names on the list
 By the end of the meeting, we would like to have just one name remaining.
 
+[99]
+We have ~ items to...
+
+We have three items to discuss
+We have two items to talk about
+We have four items to decide on
+We have just one item to discuss
+We have two items to explore
+
+Is everyone clear about the objective?
+Great
+Now, there is a lot to cover and not a whole lot of time.
+We have three items to discuss in detail.
+
+
+
+
+
+
 
 

@@ -385,6 +385,18 @@ Now, there is a lot to cover and not a whole lot of time.
 We have three items to discuss in detail.
 
 
+[100]
+The meeting should finish...
+
+The meeting should finish by noon.
+The meeting should finish by two.
+The meeting should finish at six
+The meeting should finish before three
+The meeting should finish in an hour
+
+We'll probably be here for two hours at the most
+It's three o'clock now, so the meeting should finish by five.
+We can take a short break at four or so.
 
 
 

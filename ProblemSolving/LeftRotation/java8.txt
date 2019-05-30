@@ -1,0 +1,23 @@
+public class LeftRotation {
+
+
+    public static void main(String[] args) {
+        int[] a = {1,2,3,4,5};
+        int d = 4;
+
+        int aLen = a.length;
+        int[] b = new int[aLen];
+
+        for(int i=0; i < aLen;i++) {
+            if(i - d < 0) {
+                b[i-d+aLen] = a[i];
+            }else{
+                b[i-d] = a[i];
+            }
+        }
+
+        for(int i=0; i < aLen;i++) {
+            System.out.println(b[i]);
+        }
+    }
+}

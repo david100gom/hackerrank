@@ -1,0 +1,36 @@
+public class RansomNote {
+
+    public static void main(String[] args) {
+        String[] magazine = {"two","times","Two","is","not","four"};
+        String[] note = {"two","times","two","is","four"};
+
+        Hashtable ht = new Hashtable();
+        for(String a: magazine) {
+
+            if(ht.get(a) != null) {
+                ht.put(a, (Integer)ht.get(a)+1);
+            }else {
+                ht.put(a, 1);
+            }
+
+        }
+
+        String isYes = "Yes";
+        for(String a: note) {
+
+            if(ht.get(a) == null) {
+                isYes = "No";
+                break;
+            }else if((Integer)ht.get(a) == 1) {
+                ht.remove(a);
+            }else {
+                ht.put(a, (Integer)ht.get(a)-1);
+            }
+
+        }
+
+        System.out.print(isYes);
+
+    }
+
+}

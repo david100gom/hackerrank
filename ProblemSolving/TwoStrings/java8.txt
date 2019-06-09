@@ -1,0 +1,26 @@
+public class TwoStrings {
+
+    public static void main(String[] args) {
+        String a = "hello";
+        String b = "world";
+        String c = "hi";
+        String d = "world";
+
+
+        HashMap hm = new HashMap<>();
+
+        for(int i=0; i < c.length(); i++) {
+            hm.put(c.charAt(i), 1);
+        }
+
+        String result = "NO";
+        for(int i=0; i < d.length(); i++) {
+            if(hm.get(d.charAt(i)) != null) {
+                result = "YES";
+                break;
+            }
+        }
+
+        System.out.print(result);
+    }
+}

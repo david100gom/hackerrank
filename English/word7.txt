@@ -347,3 +347,15 @@ My talk will consist of just two parts.
 One, the development time, and two, the launch date.
 
 
+[127]
+You can ask questions any time.
+You can ask questions now.
+You can ask questions after my talk
+You can ask questions during my talk
+You can ask questions after the break
+
+My presentation is three hours long.
+So we'll be talking a break after each hour
+You can ask questions right after the first break
+
+

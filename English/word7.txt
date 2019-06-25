@@ -358,4 +358,20 @@ My presentation is three hours long.
 So we'll be talking a break after each hour
 You can ask questions right after the first break
 
+[128]
+
+I will be talking for only ten minutes
+I will be talking for an hour or so
+I will be talking for half an hour
+I will be talking for just a few minutes
+I will be talking for two hours
+
+Thank you for having me here.
+You can ask questions any time during my presentation
+And I will be talking for less than an hour
+
+
+
+
+
 

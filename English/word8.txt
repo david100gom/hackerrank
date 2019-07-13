@@ -18,3 +18,14 @@ Let's compare the black version with the white one
 Let's compare our product with a competitor's
 While ours has more features, theirs is cheaper
 The big question is which one will come out on top in the marketplace
+
+[146]
+Sales have rapidly increased.
+Sales have steadily decreased
+Sales have recovered last month
+Sales have nearly doubled
+Sales have been improving
+
+Now, let's look at this quarter's financial data in detail
+Sales have been falling since November
+And profits have been going down, too

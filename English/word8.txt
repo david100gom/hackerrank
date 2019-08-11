@@ -347,3 +347,14 @@ We might be able to meet you halfway
 
 I'd hate to see us walking away because of this one item. I'll tell you what. Let's delete this item, and you pay for the consultant
 We might be able to secure tha budget for that.
+
+[176]
+Your offer doesn't meet our requirements
+Your offer doesn't include shipping fees
+Your offer doesn't offer much selection
+Your offer doesn't specify individual tasks
+
+Your offer doesn't have itemized prices
+Oh, we didn't realize you wanted a more detailed breakdown
+Well, you do have separated prices for each stage
+But we would like more detail.

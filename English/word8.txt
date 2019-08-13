@@ -358,3 +358,13 @@ Your offer doesn't have itemized prices
 Oh, we didn't realize you wanted a more detailed breakdown
 Well, you do have separated prices for each stage
 But we would like more detail.
+
+[177]
+The major obstacle is the price
+The major obstacle is the payment terms
+The major obstacle is the warranty period
+The major obstacle is the proposed completion data
+
+Could you tell me what you feel might be the problem here?
+The major obstacle is the quantity. The number should be smaller
+Then why don't we go with 90,000 instead of 100,000

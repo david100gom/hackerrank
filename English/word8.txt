@@ -436,6 +436,21 @@ How much is business ticket?
 Let's see It's ... $1,250, tax included
 That's a little over my budget. How much is coach?
 
+[184]
+I have to leave by Monday
+I have to return on July 2.
+I have to take the next flight
+I have to cancel my flight
+I have to change my flight
+
+What date do you want to change to?
+I have to get on the next flight
+Right now, we only have first class seats available
+I guess I don't have much choice. I'll take first class
+
+
+
+
 
 
 

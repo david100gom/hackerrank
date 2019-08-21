@@ -448,6 +448,24 @@ I have to get on the next flight
 Right now, we only have first class seats available
 I guess I don't have much choice. I'll take first class
 
+[185]
+I'm here on business
+I'm here on vacation
+I'm here for a conference
+I'm here to meet with a client
+I'm here to visi a supplier
+
+What is the purpose of your visit?
+I'm here for an electronics fair in Chicago.
+How long will you be staying in the U.S?
+I'm only here for three days
+
+
+
+
+
+
+
 
 
 

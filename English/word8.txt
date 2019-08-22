@@ -471,6 +471,17 @@ Do you mean the one on Fairview Avenue?
 I'm not sure, but it's next to a park, I think
 Ah-hah, yeah, I know where it is
 
+[187]
+Is there a bus that goes there?
+Is there a flight that goes there?
+Is there a subway line that goes there?
+Is there a train that goes there?
+
+Can you help me? I'm trying to get to Berkeley
+Berkeley? Wow, that's a whole different city
+Is there a tram that goes there?
+I don't know about a tram, but you can certainly take the bus
+
 
 
 

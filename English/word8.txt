@@ -493,6 +493,17 @@ Sure. Just go straight down this road. It'll be on your left
 Is it pretty far from here?
 No, not far. It's probably, oh, two or three blocks?
 
+[189]
+Sorry, I'm lost
+Sorry, I'm running a little late
+Sorry, I'm almost there
+Sorry, I'm stuck in traffic
+
+Hey, C.K. where are you? Are you coming?
+Sorry, I'm on my way
+What happened? Did you get lost?
+No, I had a hard time catching a taxi
+
 
 
 

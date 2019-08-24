@@ -482,8 +482,16 @@ Berkeley? Wow, that's a whole different city
 Is there a tram that goes there?
 I don't know about a tram, but you can certainly take the bus
 
+[188]
+Could you tell me how to get to the nearest copy shop?
+Could you tell me how to get to the park?
+Could you tell me how to get to Maple Lane?
+Could you tell me how to get to this spot on the map?
 
-
+Can you tell me how to get to Lakeshore Hotel?
+Sure. Just go straight down this road. It'll be on your left
+Is it pretty far from here?
+No, not far. It's probably, oh, two or three blocks?
 
 
 

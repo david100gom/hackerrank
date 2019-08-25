@@ -504,6 +504,17 @@ Sorry, I'm on my way
 What happened? Did you get lost?
 No, I had a hard time catching a taxi
 
+[190]
+How long will it take to get to our destination?
+How long will it take to get to the city?
+How long will it take to get to the convention?
+How long will it take to get to your office?
+
+Are you all set to go?
+I just need to pack up my laptop.
+How long will it take to get to the airport?
+It depends on traffic, but it'll probably take at least two hours
+Oh then, we'd better get going.
 
 
 

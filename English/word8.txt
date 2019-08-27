@@ -516,6 +516,17 @@ How long will it take to get to the airport?
 It depends on traffic, but it'll probably take at least two hours
 Oh then, we'd better get going.
 
+[191]
+Does this go downtown?
+Does this go to the next town?
+Does this go into the city?
+Does this go all the way to the beach?
+
+Are you getting on, maam?
+Actually, I'm not sure. Does this go to Sanford Mall?
+Yeah, it's the next stop
+Great. Yeah, I'm getting on
+
 
 
 

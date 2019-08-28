@@ -538,6 +538,18 @@ Yes, Each room has an iron and an ironing board
 What about a hair dryer?
 There's one in the bathroom by the sink
 
+[193]
+I need to extend my stay
+I need to check out
+I need to send a fax
+I need to change my room
+I need to reserve another room
+
+Front desk, May I help you?
+Hi, I need to get one more room for a co-worker
+Would that room also be a single?
+Yes, I'd like it on the same floor if possible
+
 
 
 

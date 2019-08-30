@@ -561,6 +561,18 @@ Yes, I do. The reservation is under Hango Industries
 Hango.. Yes here we are. That's for two nights?
 Yeah. Tonight and tomorrow night
 
+[195]
+I would like a wakeup call
+I would like a room with a view
+I would like a laundry service
+I would like a quiet room
+
+Do you have any other requirements?
+I would like a nonsmoking room
+Not a problem. Your room is on a nonsmoking room
+Great. Thanks
+
+
 
 
 

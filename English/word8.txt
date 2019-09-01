@@ -572,6 +572,26 @@ I would like a nonsmoking room
 Not a problem. Your room is on a nonsmoking room
 Great. Thanks
 
+[196]
+I would like a table for five
+I would like a table with a view
+I would like a table near band
+I would like a table by the window
+I would like a table in the nonsmoking section
+
+Good evening
+Hi, I would like a table for three people
+Sure, Would you like smoking or nonsmoking?
+Nonsmoking, please
+
+
+
+
+
+
+
+
+
 
 
 

@@ -596,19 +596,13 @@ I'll have the New York strip
 Okay. How would you like your steak?
 Medium well, please
 
+[198]
+Does it come with rice?
+Does it come with potatoes?
+Does it come with a soda?
+Does it come with French fries?
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Does it come with salad?
+It sure does. What kind of dressing would you like?
+What are the choices?
+We have Italian, Ranch, and Thousand Island.

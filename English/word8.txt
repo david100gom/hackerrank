@@ -617,3 +617,15 @@ Will there be others joining you?
 Yes, I'm expecting a friend
 We'll get the table ready. Would you like to wait at the bar?
 Sure. Where is it?
+
+[200]
+Can you get me more water?
+Can you get me a beer first?
+Can you get me another fork?
+Can you get me some coffee?
+Can you also get me the wine menu?
+
+Do you need anything els?
+No, I think we're done. Can you get me the check?
+Sure thing. Will this be all on one bill?
+Yes, one bill, please

@@ -3,3 +3,9 @@ I have a little money
 Where is she from?
 Would you like to come to my house for dinner tonight?
 You must do your homework.
+
+How much is the ticket?
+How much is first class?
+How much is a one-way ticket?
+How much is a round-trip ticket?
+How much is the package?

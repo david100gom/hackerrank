@@ -15,3 +15,16 @@ Hello, David Kim speaking.
 Hi, Ben, this is Sid Field. Sorry to call your cell phone.
 Hey, Sid. No no problem. How can I help you today?
 I have a quick question about the proposal
+
+[2]
+Hello, Jean. This is Minsoo Park
+Oh, hi Mr Park. This is Tina actually
+
+Hi Tina. Is Jean there? I'm returning her call
+Sorry. she is in a meeting
+
+[3]
+Is Linda Masters in?
+Oh, you just missed her. Would you like to leave a message?
+Yes, please tell her David kim called
+Sure thing. I'll have her call you back

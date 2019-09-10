@@ -28,3 +28,15 @@ Is Linda Masters in?
 Oh, you just missed her. Would you like to leave a message?
 Yes, please tell her David kim called
 Sure thing. I'll have her call you back
+
+[4]
+May I know when he was expecting your call?
+He wasn't. I just really need to talk to him
+Well... he does have a cell phone
+Great. Can I get that number?
+
+[5]
+Hello Jack Pierce speaking
+Hi Jack, this is Ace from KP electronics
+Hey Ace. How've you been?
+Fantastic. And yourself?

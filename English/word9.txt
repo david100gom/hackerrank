@@ -51,3 +51,10 @@ Hello, could I speak to Mr. Thomas?
 Sure, May I tell him who's calling?
 My name is J.D Lee
 I'll put you through
+
+[7]
+Could I speak to Mr. Hayes?
+Sorry, he's not in at the moment
+Would you like to talk to someone else?
+That's all right. Could I leave a message?
+Oh, sure May I know your name?

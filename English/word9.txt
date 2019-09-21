@@ -166,3 +166,20 @@ Hi Jane. You sound busy. Did I catch you at a bad time?
 I'm at a restaurant right now. Can I call you right back?
 Actually, it's not urgent. I can wait
 No, it'a all right. I'm almost done here anyway
+
+[25]
+Hello?
+Hi, this is C.J Park. Are you busy?
+Hi. C.J. Listen, can I call you back? I'm in a meeting.
+Sure. I'll wait for your call.
+
+[26]
+Hey, Mel. this is Larry
+Larry! I appreciate you returning my call so quickly
+Well, I figured it had to be important
+It is. I got a call from the factory in China about an hour ago
+
+
+
+
+

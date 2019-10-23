@@ -314,3 +314,22 @@ I like going to plays back home
 Plays? Do you watch them often?
 I try. But I'm usually so busy with work
 I know what you mean
+
+[89]
+I'm a huge fan of... : ~의 광팬입니다.
+I'm a huge fan of baseball
+
+I'm a huge fan of biographies
+Do you read them in Korean or in English
+Both, I recently read a biography of Barrack Obama in English
+Which one? I read one, too
+
+[90]
+Is there a... nearby? : ~이 근처에 있나요?
+Is there a bathroom nearby?
+
+Is there a copy center nearby?
+Sure. Do you need to make some copies?
+We have a copy machine here.
+I need to make a few bound copies
+No problem. We also have a binding machine

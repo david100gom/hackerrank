@@ -419,3 +419,20 @@ The meeting should finish by noon
 We'll probably be here for two hours at the most
 It's three o'clock now, so the meeting should finish by five
 We can take a short break at four or so
+
+[101]
+Let's start with... : ~으로 시작합시다
+Let's start with the first item
+
+Let's start with Tina's report. Tina, are you all set to go?
+Yeah, I'm ready.
+Okay, what do you have for us today?
+
+[102]
+What's your view on ...? : ~에 대한 당신의 의견은요?
+What's your view on this?
+
+Paula, you've heard Steve's opinion. What's your view on that?
+I need more information before I can fully agree, but...
+But?
+But Steve does have a point

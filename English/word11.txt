@@ -521,3 +521,21 @@ Maybe I should give you a real-life example.
 Last year, there was a strike at a supplier's factory
 It lasted over a month. Everyone lost out.
 
+[167]
+How important is... to you? : ~이 그쪽에게 얼마나 중요한가요?
+How important is that to you?
+
+How important is R&D to you?
+Obviously, it's important. Why do you ask?
+Well, we have one of the best research facilities in Korea.
+That means we can customize the product to your needs
+
+[168]
+We would require... : ~이 있어야 합니다.
+We would require a letter of credit
+
+We would require a formal proposal. Otherwise, we can't obtain an approval.
+Do you have a specific format for proposals?
+We do, actually. I can get you a digital file of the format right now.
+
+

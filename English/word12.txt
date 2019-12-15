@@ -33,3 +33,21 @@ Do you have a reservation?
 Yes, I do. The reservation is under Hango Industries.
 Hango.. Yes, here we are. That's for two night?
 Yeah, Tonight and tomorrow night.
+
+[195]
+I would like ... : ~을 주시면 좋겠습니다.
+I would like a wakeup call.
+
+Do you have any other requirements?
+I would like a nonsmoking room.
+Not a problem. Your room is on a nonsmoking floor.
+Great. Thanks
+
+[196]
+I would like a table ... : ~자리를 주세요
+I would like a table for five.
+
+Good evening.
+Hi I would like a table for three people
+Sure. Would you like smoking or nonsmoking?
+Nonsmoking, please

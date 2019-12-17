@@ -51,3 +51,21 @@ Good evening.
 Hi I would like a table for three people
 Sure. Would you like smoking or nonsmoking?
 Nonsmoking, please
+
+[197]
+I'll have... : ~으로 하겠습니다.
+I'll have the special 
+
+And what will you be having this evening?
+I'll have the New York strip.
+Okay, How would you like your steak?
+Medium well, please
+
+[198]
+Does it come with...? ~과 같이 나오나요?
+Does it come with rice?
+
+Doese it come with salad?
+It sure does. What kind of dressing would you like?
+What are the choices?
+We have Italian, Ranch, and Thousand Island.

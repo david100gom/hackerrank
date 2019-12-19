@@ -87,3 +87,12 @@ Do you need anything else?
 No, I think we're done. Can you get me the check?
 Sure thing. Will this be all on one bill?
 Yes, on bill, please.
+
+[1]
+Hello,... speaking : 여보세요, ~입니다.
+Hello, John speaking.
+
+Hello, Benjamin Kim speaking
+Hi, Ben, this is Sid Field. Sorry to call your cell phone.
+Hey, Sid. No, no problem. How can I help you today?
+I have a quick question about the proposal

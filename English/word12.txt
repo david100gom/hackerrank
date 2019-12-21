@@ -114,3 +114,11 @@ accommodate
 The hotel can accommodate up to 500 guests
 accomplish
 The first part of the plan has been safely accomplished
+
+[3]
+Would you like to ...? :~ 하시겠어요?
+Would you like to hold?
+Is Linda Masters in?
+oh, you just missed her. Would you lie to leave a message?
+Yes, please tell her Matthew Kim called
+Sure thing. I'll have her call you back.

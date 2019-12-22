@@ -122,3 +122,13 @@ Is Linda Masters in?
 oh, you just missed her. Would you lie to leave a message?
 Yes, please tell her Matthew Kim called
 Sure thing. I'll have her call you back.
+
+[4]
+May I have[know]...? : ~을 알 수 있을까요?
+
+May I have your full name?
+
+May I know when he was expecting your call?
+He wan't. I just really need to talk to him.
+Well... he does have a cell phone.
+Great. Can I get that number?

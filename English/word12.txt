@@ -132,3 +132,12 @@ May I know when he was expecting your call?
 He wan't. I just really need to talk to him.
 Well... he does have a cell phone.
 Great. Can I get that number?
+
+[5]
+Hi, this is... : 안녕하세요 ~입니다.
+Hi, this is Peter.
+
+Hello, Jack Pierce speaking.
+Hi, Jack, this is Ace from KP Electronics.
+Hey, Ace. How've you been?
+Fantastic. And yourself?

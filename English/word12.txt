@@ -150,3 +150,14 @@ Hello, could I speak to Mr. Thomas?
 Sure. May I tell him who's calling?
 My name is J.D Lee, I'm a computer programmer
 I'll put you through
+
+[7]
+Could I speak to...? : ~와 통화 가능할까요? / ~ 바꿔 주시겠어요?
+Could I speak to Jane in HR?
+
+Could I speak to Mr. Hayes?
+Sorry, he's not in at the moment.
+Would you like to talk to someone else?
+That's all rihgt. Could I leave a message?
+Oh, sure. May I know your name?
+

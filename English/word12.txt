@@ -161,3 +161,11 @@ Would you like to talk to someone else?
 That's all rihgt. Could I leave a message?
 Oh, sure. May I know your name?
 
+[8]
+I'm calling to... : ~하려고 전화드렸습니다.
+I'm calling to ask a favor
+
+Hi, Ms.Lee How have you been?
+Great. How about yourself?
+I've been busy. How can I help you today?
+Well, I'm calling to see if you're free for lunch

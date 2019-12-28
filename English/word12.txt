@@ -169,3 +169,12 @@ Hi, Ms.Lee How have you been?
 Great. How about yourself?
 I've been busy. How can I help you today?
 Well, I'm calling to see if you're free for lunch
+
+[9]
+This is about ... : 관련 건입니다.
+This is about the job opening
+
+Hey, Rachel. I didn't expect a call from you today.
+Well, I had to speak to you ASAP.
+is that right? What is this about?
+This is about a problem at the plant

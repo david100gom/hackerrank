@@ -197,3 +197,13 @@ Jen's waiting in the conference room
 Could you ask her to start the meeting without me?
 Oh? Can I tell her why?
 Please tell her that I'm stuck in traffic
+
+[12]
+I'm sorry, can you...? : 죄송한데, ~ 하시겠어요?
+I'm sorry, can you call me back?
+
+This is Hyeong Taek Lee.
+I'm sorry, can you spell that for me?
+Do you want the full name?
+Well, I got your last name Lee. How about just your first name?
+

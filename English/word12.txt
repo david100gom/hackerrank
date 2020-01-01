@@ -207,3 +207,11 @@ I'm sorry, can you spell that for me?
 Do you want the full name?
 Well, I got your last name Lee. How about just your first name?
 
+[13]
+Mind if I ...? : ~해도 괜찮습니까?
+Mind if I take another call?
+
+He's expecting my call. We were supposed to talk at 3 o'clock.
+Mind if I check with him?
+Sure, of course.
+All right, let me put you on hold for a second.

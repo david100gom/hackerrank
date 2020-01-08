@@ -271,3 +271,12 @@ Hi Missy. Isn't Brad in the office?
 Hi, J.K. He's downstairs. Did you try his cell?
 Yes, I did. but it's off. That's why called you.
 I'll make sure he knows you called.
+
+[18]
+Do you want me to...?
+Do you want me to call you back?
+
+Thanks for waiting, Stella. I had to take the call.
+No problem. Are you free now?
+Sorry, but I have maybe two minutes to talk.
+Do you want me to call you later this afternoon then?

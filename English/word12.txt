@@ -308,3 +308,13 @@ Hi, Melanie. Sorry, but I can't make it to your office this afternoon
 Oh, that's too bad. So what do you want to do?
 How about we reschedule it for Friday? Same time?
 Friday same time works for me
+
+[22]
+I'm afraid I can't... : 유감이지만 ~할 수 없습니다.
+I'm afraid I can't help you.
+I'm afraid I can't go into details
+
+When is the next meeting?
+It's on Friday. You're attending, aren't you?
+This Friday? Well, I'm afraid I can't make it. I'm off that day
+That's too bad. I'll e-mail you the minutes then

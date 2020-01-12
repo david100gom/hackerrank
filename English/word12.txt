@@ -318,3 +318,15 @@ When is the next meeting?
 It's on Friday. You're attending, aren't you?
 This Friday? Well, I'm afraid I can't make it. I'm off that day
 That's too bad. I'll e-mail you the minutes then
+
+[23]
+What do you say we.. instead?
+What do you say we meet in July instead?
+
+I don't have an answer for you yet.
+Okay, should I call you again later next week?
+You know, I'll be on the road next week
+What do you say we talk on the phone the following week instead?
+That'll be fine. Talk to you then.
+
+

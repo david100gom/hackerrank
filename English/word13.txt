@@ -41,3 +41,11 @@ Thank you for responding so quickly
 Thank you so much for sending me your presentation slides.
 They were beautifully designed
 I can easily see why the audience was so impressed yesterday
+
+[33]
+As you requested,... : 요청하신 대로, ~
+As you requested, your reservation has been cancelled
+
+As you requested, I've asked Joey Simms to send you a copy of the specifications
+From what I understand, it's a fairly big file.
+So it will probably take you a while to get through it.

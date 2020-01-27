@@ -81,3 +81,12 @@ Congratulations on your promotion
 Congratulations on your new position as director
 Everyone in my team was delighted at the news
 You certainly deserve the promotion
+
+[38]
+My name is ..., with ~ : 전 ~사의 ...라고 합니다.
+My name is David, with Software Seoul.
+
+Dear Mr. Hamel.
+My name is Grace Han, with Incheon Containers.
+In the past, I worked closely with Jan MacDougal from your shipping department.
+

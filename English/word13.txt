@@ -154,3 +154,10 @@ Thank you for inviting me to the presentation
 Unfortunately, I won't be able to attend due to an internal meeting
 I wish I could miss this meeting, but our director has insisted that I attend 
 
+[47]
+I would like to receive your reply by... : ~까지 답변을 받았으면 합니다.
+I would like to receive your reply by tomorrow
+
+Yolanda, it's imperative that you give me some form of an answer
+I would like to receive your reply by no later than noon tomorrow
+Otherwise, we can't move forward with the project.

@@ -147,6 +147,14 @@ The evnet will take place at our offices on Friday, March 2, at 2:00 pm
 Please refer to the attached map.
 
 [46]
+I'd be pleased to attend... :~에 기꺼이 참석하겠습니다.
+I'd be pleased to attend the meeting.
+
+Thanks so much for inviting me to the global seminar on Monday.
+I'd be pleased to attend the seminar
+Please let me know if you would like me to prepare anything.
+
+[47]
 Unfortunately, I won't be able to attend due to... : 아쉽게도, ~으로 인해 참석을 못하게 되었습니다.
 Unfortunately, I won't be able to attend due to a business trip.
 
@@ -154,10 +162,11 @@ Thank you for inviting me to the presentation
 Unfortunately, I won't be able to attend due to an internal meeting
 I wish I could miss this meeting, but our director has insisted that I attend 
 
-[47]
+[48]
 I would like to receive your reply by... : ~까지 답변을 받았으면 합니다.
 I would like to receive your reply by tomorrow
 
 Yolanda, it's imperative that you give me some form of an answer
 I would like to receive your reply by no later than noon tomorrow
 Otherwise, we can't move forward with the project.
+

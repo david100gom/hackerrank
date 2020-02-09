@@ -177,3 +177,11 @@ We were given your name by Jimmy Go at our office in India
 We were given your name by Mario Cruz at your office here in Seoul, Korea.
 He mentioned that your firm was looking for a supplier in Spain.
 As you may alread know, we have offices in both Madrid and Barcelona.
+
+[50]
+I enjoyed talking to you at...   : ~에서 나눈 얘기 즐거웠습니다.
+I enjoyed talking to you at the company party.
+
+I enjoyed talking to you at Sam & Hart's office two days ago.
+I remember you were saying that you were in the market for a paper supplier.
+so I thought I'd send you our most recent catalog

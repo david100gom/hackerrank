@@ -29,3 +29,11 @@ I haven't received my order.
 We have a serious problem.
 I haven't received the order placed on February 10.
 Could you please check up on the status of that shipment as soon as you can?
+
+[62]
+The product is ... 제품이 ~입니다.
+The product is defective.
+
+The product is I received is the wrong model
+What I had ordered was your largest generator, model #L1A
+What I received is the second largest, model #L2A

@@ -37,3 +37,11 @@ The product is defective.
 The product is I received is the wrong model
 What I had ordered was your largest generator, model #L1A
 What I received is the second largest, model #L2A
+
+[63]
+ There is an error on... ~에 오류가 있습니다.
+ There is an error on the document
+ 
+ There io an error on the product list.
+ On page 3, there is an entry for "Item T-107" 
+ I believe it should be "Item T-207"

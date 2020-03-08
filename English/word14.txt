@@ -168,3 +168,12 @@ Pamela? Let me introduce you to my boss. S.H.Kim
 Is that him right there? The one with the blue necktie?
 Well, no. That's the caterer. S.H is the man by the door there.
 You know, I might have met him before.
+
+[79]
+Is this your first ...? : ~이 이번이 처음인가요?
+Is this your first time in Seoul?
+
+Is this your first tour of our plant?
+Yes, I was in Ulsan last year but didn't get a chance then.
+That's right. Jay Kim told me you where here for one day
+Yes, I was too busy going over the contract with him.

@@ -177,3 +177,12 @@ Is this your first tour of our plant?
 Yes, I was in Ulsan last year but didn't get a chance then.
 That's right. Jay Kim told me you where here for one day
 Yes, I was too busy going over the contract with him.
+
+[80]
+How do you like...? : ~은 어때요?
+How do you like the hotel?
+
+How do you like the restaurant?
+It's got a great atmosphere. I love that sculpture.
+You mean the dolphin statue?
+Oh, that's a dolphin? I thought it was a shark.

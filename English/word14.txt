@@ -240,3 +240,12 @@ I want to pick up some souvenirs for my family
 You're in luck. We've got some great outdoor markets here
 Really? Is there one nearby?
 It's probably a five-minute walk
+
+[87]
+What do you do...? ~뭐 하세요?
+What do you do in your spare time?
+
+I exercise whenever I have time.
+Oh, yeah? What do you do for exercise?
+Usually I go jogging. And sometimes I go cycling.
+Really now? I enjoy cycling, too. Mountain bikes?

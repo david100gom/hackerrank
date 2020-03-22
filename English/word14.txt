@@ -288,4 +288,11 @@ Another laptop would be great.
 The screen on this one is a little small. Is that all right?
 That'll be fine
 
-필요
+[92]
+Would you like...? :~ 드릴까요?
+Would you like a bottle of water?
+
+Would you like a flip chart?
+Yes, that would make things easier.
+There's one next door. I'll be right back with it
+I appreciate that

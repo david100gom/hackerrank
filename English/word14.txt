@@ -305,3 +305,13 @@ Do you want to grab a few beers at the bar?
 I appreciate the offer, but I have to go write up a report. Can I take a rain check?
 Absolutely. I'll pick you up at the lobby again tomorrow morning.
 Thanks. That will be great
+
+[94]
+Thanks so much for.. : ~에 감사드립니다/~해 주셔서 감사합니다.
+Thanks so much for showing us around.
+
+Thanks so much for everything. We had a great time.
+My pleasure. Would you like a ride back to your hotel?
+No, I think we can catch a cab.
+At this time of night? I'll give you a ride
+

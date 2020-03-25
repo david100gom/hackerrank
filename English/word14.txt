@@ -315,3 +315,10 @@ My pleasure. Would you like a ride back to your hotel?
 No, I think we can catch a cab.
 At this time of night? I'll give you a ride
 
+[95]
+Thank you all for coming... 모두 ~ 참석해 주셔서 고맙습니다.
+Thank you all for coming today.
+
+Okay, let's start then.
+Thank you all for coming despite the bad weather
+The weather's supposed to clear up by the time we're done.

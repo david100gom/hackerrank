@@ -330,3 +330,11 @@ Jay is joining us today.
 Before we go any further, let me introduce two new people here.
 J. Woo and T.Kim from AB Electronics are joining us today.
 I believe some of you have already met them  
+
+[97]
+.. couldn't make the meeting. ~는 회의에 불참합니다.
+Harry couln't make the meeting.
+
+Pat Stevens wanted me to apologize for him.
+Pat couldn't make the meeting.
+He's on a business trip right now

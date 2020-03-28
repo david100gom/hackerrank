@@ -338,3 +338,11 @@ Harry couln't make the meeting.
 Pat Stevens wanted me to apologize for him.
 Pat couldn't make the meeting.
 He's on a business trip right now
+
+[98]
+We're here today to... : ~ 하려고 오늘 모였습니다.
+We're here today to make tow decisions
+
+We're here today to decide on the name for the new product
+There are twelve potential names on the list.
+By the end of the meeting, we would like to have just one name remaining.

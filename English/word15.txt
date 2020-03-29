@@ -1,0 +1,8 @@
+[99]
+We have~ item to... : ~할 안건이 ~ 개 있습니다.
+We have two items to explore
+
+Is everyone clear about the objective?
+Great.
+Now, there is a lot to cover and not a whole of lot of time
+We have 3 items to discuss in detail

@@ -176,3 +176,11 @@ Now, let's move onto the next item.
 I think that's eveything we want to discuss on that.
 Now, let's move onto a different item.
 We need to discuss the ongoing problem of inventory control
+
+[118]
+We'll ... next time. ~은 다음번에 하겠습니다.
+We'll deal with this item next time.
+
+Unfortunately, we're out of time.
+We'll talk about this item again next time.
+Okay, I think we've covered everything.

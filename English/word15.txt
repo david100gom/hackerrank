@@ -258,3 +258,11 @@ You can ask questions any time.
 My presentation is three hours long.
 So we'll be taking a break after each hour
 You can ask questions right after the first break
+
+[128]
+I will be talking for.. ~ 걸리겠습니다.
+I will be talking for only ten minutes.
+
+Thank you for having me here
+You can ask questions any time during my presentation.
+And, I will be talking for less than an hour

@@ -391,3 +391,11 @@ This shows the amount of traffic on Highway 1.
 Take a look at this
 This shows three different brands of batteries
 The one on top is ours, and the other two are from China
+
+[144]
+We can see (that) :  ~을 볼수 있습니다.
+We can see an increase over time
+
+Let me just pause here to talk about this bar graph
+See the drop after 2010?
+We can see that there was a problem in the following year.

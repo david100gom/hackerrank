@@ -415,3 +415,11 @@ Sales have rapidly increased.
 Now, let's look at this quarter's financial data in detail.
 Sales have been falling since November.
 And profits have been going down, too
+
+[147]
+The change is due to .. 변화는 ~ 때문입니다.
+The change is due to mismanagement
+
+Here we see a steady growth in profits.
+The change is partly due to the product's growing popularity.
+Another reason is better management.

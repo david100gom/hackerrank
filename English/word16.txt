@@ -104,7 +104,7 @@ I recommend (that) you take the day off tomorrow
 I recommend (that) you get some professional advice
 
 [160]
-... is less of a priority
+... is less of a priority : ~은 우선사항이 아닙니다.
 This is less of a priority
 
 Renovating the existing stores is less of a priority

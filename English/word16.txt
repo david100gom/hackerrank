@@ -243,3 +243,11 @@ How soon can you get your engineers to our offices?
 It depends on when we conclude our discussions.
 But we probably could have them in Seattle in two weeks
 I'm afraid that's a little late
+
+[173]
+Perhaps we could consider... : ~을 고려해 보면 좋을듯 합니다.
+
+Perhaps we could consider a new approach
+Your landcaping estimate is 20% higher than our own.
+Perhaps we could consider decreasing the number of trees
+That would be impossible. If anything, we need more trees

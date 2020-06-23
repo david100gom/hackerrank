@@ -14,3 +14,13 @@ I'd like to book a flight to Seoul
 Sure, For what day?
 I need a flight for tomorrow. The airline doesn't matter
 Okay. Would that be one-way or round-trip?
+
+[183]
+How much is...? ~ 이 얼마죠?
+
+How much is the ticket?
+
+Would that be coach?
+How much is business class?
+Let's see. It's .. $1,250, tax included.
+That's a little over my budget. How much is coach?

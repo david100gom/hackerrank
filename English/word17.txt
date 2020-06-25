@@ -34,3 +34,14 @@ What date do you want to to change to?
 I have to get on the next flight.
 Right now, we only have first class seats available.
 I guess I don't have much choice. I'll take first class
+
+[185]
+I'm here ... ~ 왔습니다.
+
+I'm here on business
+
+What is the purpose of your visit?
+I'm here for an electronics fair in Chicago
+How long will you be staying in the U.S?
+I'm only here for three days
+    

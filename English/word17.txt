@@ -99,3 +99,14 @@ Are you getting on, ma'am?
 Actually, I'm not sure. Does this go to Sanford Mall?
 Yeah, it's the next stop.
 Great. Yeah, I'm getting on.
+
+[192]
+Does the room have...? 방에 ~ 있나요?
+
+Does the room have wi-fi?
+Does the room have an iron?
+Yes. Each room has an iron and an ironing board
+What about a hair dryer?
+There's one in the bathroom by the sink
+
+

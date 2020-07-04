@@ -117,3 +117,12 @@ Front desk. May I help you?
 Hi. I need to get one more room for co-worker
 Would that room also be a single?
 Yes, I'd like it on the same floor if possible
+
+[194]
+The reservation is ... ~으로 예약했습니다
+
+The reservation is under Jong Im.
+Do you have a reservation?
+Yes, I do. The reservation is under Hango Industries.
+Hango...., Yes, here we are. That's for two night?
+Yeah. Tonight and tomorrow night

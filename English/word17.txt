@@ -126,3 +126,13 @@ Do you have a reservation?
 Yes, I do. The reservation is under Hango Industries.
 Hango...., Yes, here we are. That's for two night?
 Yeah. Tonight and tomorrow night
+
+[195]
+I would like ... ~을 주시면 좋겠습니다.
+
+I would like a wakeup call
+Do you have any other rquirements?
+I would like a nonsmoking room
+Not a problem. Your room is on a nonsmoking floor
+Great. Thanks
+

@@ -136,3 +136,11 @@ I would like a nonsmoking room
 Not a problem. Your room is on a nonsmoking floor
 Great. Thanks
 
+[196]
+I would like a table... ~ 자리 주세요
+I would like a table for five
+
+Good evening
+Hi. I would like a table for three people
+Sure. Would you like smoking or nonsmoking?
+Nonsmoking, please

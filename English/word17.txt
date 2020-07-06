@@ -144,3 +144,12 @@ Good evening
 Hi. I would like a table for three people
 Sure. Would you like smoking or nonsmoking?
 Nonsmoking, please
+
+[197]
+I'll have ... ~ 으로 하겠습니다.
+I'll have the special
+
+And what will you be having this evening?
+I'll have the New York strip
+Okay. How would you like your steak?
+Medium well, please

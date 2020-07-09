@@ -163,3 +163,12 @@ Does it come with salad?
 It sure does. What kind of dressing would you like?
 What are the choices?
 We have Italian, Ranch, and Thousand Island
+
+[199]
+I'm expecting ... ~가 올 겁니다
+I'm expecting someone else
+
+Will there be others joining you?
+Yes, I'm expecting a friend
+We'll get the table ready. Would you like to wait at the bar?
+Sure. Where is it?

@@ -172,3 +172,12 @@ Will there be others joining you?
 Yes, I'm expecting a friend
 We'll get the table ready. Would you like to wait at the bar?
 Sure. Where is it?
+
+[200]
+Can you get me ... ? ~ 주시겠어요?
+Can you get me more water?
+
+Do you need anything else?
+No, I think we're done.  Can you get me the check?
+Sure thing. Will this be all on one bill?
+Yes, one bill, please

@@ -1,4 +1,4 @@
-[75]
+[74]
 I forgot to cancel the subscription
 I forgot to tell you something
 I forgot to bring my smartphone.
@@ -8,3 +8,6 @@ I forgot to call you and tell you I wouldn't be able to make it to your wedding
 I forgot to say that children under the age of 14 must be accompanied by an adult
 I forgot to tell you I need to drive tonight
 I was gonna ask you out for a drink. That's okay. We can just have dinner
+
+[75]
+I should have 과거분사 (p.p) ~할걸 그랬어

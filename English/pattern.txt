@@ -81,3 +81,9 @@ I'm willing to do it
 I'm willing to learn
 I'm willing to share
 I'm willing to help you
+
+[16]
+Are you ready to go?
+Are you ready to start?
+Are you ready to order?
+Are you ready to have fun?

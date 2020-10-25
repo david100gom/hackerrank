@@ -87,3 +87,9 @@ Are you ready to go?
 Are you ready to start?
 Are you ready to order?
 Are you ready to have fun?
+
+[17]
+Are you going to stay?
+Are you going to sleep?
+Are you going to take it?
+Are you going to make a decision?

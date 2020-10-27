@@ -83,12 +83,19 @@ I'm willing to share
 I'm willing to help you
 
 [16]
+I'm looking for a key
+I'm looking for my car
+I'm looking for someone
+I'm looking for my phone
+
+
+[17]
 Are you ready to go?
 Are you ready to start?
 Are you ready to order?
 Are you ready to have fun?
 
-[17]
+[18]
 Are you going to stay?
 Are you going to sleep?
 Are you going to take it?

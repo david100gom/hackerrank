@@ -136,3 +136,9 @@ Do you want to leave?
 Do you want to try some?
 Do you want to go with me?
 Do you want to watch a movie?
+
+[25]
+I just wanted to check
+I just wanted to say hello
+I just wanted to thank you
+I just wanted to talk to you

@@ -232,3 +232,9 @@ Would you like to eat?
 Would you like to see?
 Would you like to join us?
 Would you like to sign up?
+
+[40]
+Can I get a ride?
+Can I get a refund?
+Can I get a discount?
+Can I get more water?

@@ -238,3 +238,10 @@ Can I get a ride?
 Can I get a refund?
 Can I get a discount?
 Can I get more water?
+
+[41]
+Can I get you ~ ? ~가져다 줄까요?
+Can I get you a drink?
+Can I get you a chair?
+Can I get you a towel?
+Can I get you anything?

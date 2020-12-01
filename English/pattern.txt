@@ -299,3 +299,9 @@ It's nice to be back
 It's nice to meet you
 It's nice to talk to you
 It's nice to work with you
+
+[51]
+It's time to go
+It's time to stop
+It's time to get up
+It's time to take a break

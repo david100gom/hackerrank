@@ -449,3 +449,10 @@ What do you know about him?
 What do you know about this area?
 What do you know about this situation?
 What do you know about the company?
+
+[76]
+What can I say?
+What can I bring?
+What can I expext?
+What can I do for you?
+

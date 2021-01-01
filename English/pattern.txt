@@ -491,3 +491,9 @@ How was your day?
 How was the movie?
 How was that meeting?
 How was your weekend?
+
+[83]
+How do you know me?
+How do you know that?
+How do you know this place?
+How do you know each other?

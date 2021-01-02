@@ -493,7 +493,20 @@ How was that meeting?
 How was your weekend?
 
 [83]
+How can you do that?
+How can you be sure?
+How can you help me?
+How can you know that?
+
+[84]
 How do you know me?
 How do you know that?
 How do you know this place?
 How do you know each other?
+
+[85]
+How often do you get sick?
+How often do you see them?
+How often do you see a doctor?
+How often do you go to theater?
+

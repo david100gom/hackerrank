@@ -515,3 +515,9 @@ Where is he?
 Where is the remote?
 Where is the building?
 Where is the bus stop
+
+[87]
+Where do you live?
+Where do you work?
+Where do you want to go?
+Where do you want to eat?

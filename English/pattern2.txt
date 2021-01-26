@@ -53,3 +53,10 @@ I'm not talking about my boyfriend
 I'm not talking about a TV show
 I'm not talking about my friend
 I'm not talking about your appearance
+
+[9]
+Are you talking about the book?
+Are you talking about us?
+Are you talking about the move?
+Are you talking about me?
+Are you talking about my friend?

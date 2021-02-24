@@ -32,7 +32,6 @@ Are you sure you want to go?
 Are you sure you can do this?
 Are you sure you want to quit?
 Are you sure you don't want any?
-
 [6]
 I'm saying I'm sorry
 I'm saying I love you

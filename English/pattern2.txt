@@ -388,3 +388,10 @@ What kind of place is it?
 What kind of work do you do?
 What kind of music do you listen to?
 What kind of books do you like?
+
+[57]
+What do you say to the suggestiong?
+What do you say to that?
+What do you say to that argument?
+What do you say to my plan?
+What do you say to a walk?

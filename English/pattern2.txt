@@ -570,3 +570,11 @@ May I help you find something?
 May I help you with something else?
 May I help you with your order?
 May I help you with anything?
+
+[83]
+You might have been busy
+You might have told me
+You might have heard the news
+You might have been right
+You might have already known
+

@@ -724,3 +724,10 @@ I'm not sure I can do it
 I'm not sure I understand
 I'm not sure it's possible
 I'm not sure you remember me
+
+[5]
+Are you sure you want to know ?
+Are you sure you want to go?
+Are you sure you can do this?
+Are you sure you want to quit?
+Are you sure you don't want any?

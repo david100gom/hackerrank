@@ -731,3 +731,10 @@ Are you sure you want to go?
 Are you sure you can do this?
 Are you sure you want to quit?
 Are you sure you don't want any?
+
+[6]
+I'm saying I'm sorry
+I'm saying I love you
+I'm saying it's not true
+I'm saying I like it
+I'm saying I don't understand

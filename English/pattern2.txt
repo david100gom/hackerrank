@@ -985,3 +985,10 @@ I want you to say
 I want you to do something for me
 I want you to be happy
 I want you to be honest
+
+[42]
+I don't want you to go
+I don't want you to be afraid
+I don't want you to buy it
+I don't want you to worry
+I don't want you to wait for me

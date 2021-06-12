@@ -1007,3 +1007,10 @@ I know how to cook
 I know how to fix it
 I know how to knit
 
+[45]
+Do you know how to do it?
+Do you know how to get there?
+Do you know how to drive?
+Do you know how to sew?
+Do you know how to spell ?
+

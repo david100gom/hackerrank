@@ -1202,3 +1202,10 @@ Can you help me with my homework?
 Can you help me again?
 Can you help me understand?
 Can you help me find him?
+
+[73]
+Can you tell me where I am?
+Can you tell me the time?
+Can you tell me what happened?
+Can you tell me why?
+Can you tell me where it is?

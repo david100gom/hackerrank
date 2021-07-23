@@ -1300,3 +1300,10 @@ I should be able to fix it
 I should be able to buy it
 I should be able to do better
 I should be able to do this myself
+
+[87]
+I should have known the truth
+I should have known about this
+I should have known you were right
+I should have known better
+I should have known what to do 

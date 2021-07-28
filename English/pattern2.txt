@@ -1328,3 +1328,10 @@ I must say I'm sorry
 I must say I love you
 I must say thank you
 I must say goodbye
+
+[91]
+I must admit I like it
+I must admit I fell in love
+I must admit I was wrong
+I must admit I was surprised
+I must admit it was good

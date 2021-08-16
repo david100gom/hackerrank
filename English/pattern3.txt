@@ -60,3 +60,10 @@ Are you talking about us?
 Are you talking about the movie?
 Are you talking about me?
 Are you talking about my friend?
+
+[10]
+Are you planning to come back?
+Are you planning to stay?
+Are you planning to travel?
+Are you planning to come here?
+Are you planning to rent a car?

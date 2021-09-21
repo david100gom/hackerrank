@@ -312,3 +312,10 @@ Do you know how to get there?
 Do you know how to drive?
 Do you know how to sew?
 Do you know how to spell?
+
+[46]
+Do you know what it is?
+Do you know what I mean?
+Do you know what happened?
+Do you know what the problem is ?
+Do you knwo what time it is?

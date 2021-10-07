@@ -424,3 +424,10 @@ How do you like her?
 How do you like the food?
 How do you like that idea?
 How do you like my haircut?
+
+[62]
+How long have you been marreid?
+How long have you been here?
+How long have you been working?
+How long have you been waiting?
+How long have you been doing this?

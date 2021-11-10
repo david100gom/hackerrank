@@ -662,3 +662,11 @@ I wonder if you can help me
 I wonder if it's true
 I wonder if you think of me
 I wonder if I'm doing the right thing
+
+[96]
+Do you mind if I go?
+Do you mind if I call you?
+Do you mind if I take a look?
+Do you mind if I come?
+Do you mind if I sit here?
+

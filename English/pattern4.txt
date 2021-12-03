@@ -105,3 +105,9 @@ Are you going to stay?
 Are you going to sleep?
 Are you going to take it?
 Are you going to make a decision?
+
+[19]
+Are you trying to find a job?
+Are you trying to lose weight?
+Are you trying to sell you car?
+Are you trying to find something?

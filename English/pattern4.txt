@@ -242,3 +242,9 @@ Can I get you a drink?
 Can I get you a chair?
 Can I get you a towel?
 Can I get you anything?
+
+[42]
+Can't you see that?
+Can't you hear me?
+Can't you just stop?
+Can't you do better?

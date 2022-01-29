@@ -446,3 +446,9 @@ What do you know about him?
 What do you know about this area?
 What do you know about the situation?
 What do you know about the company?
+
+[76]
+What can I say?
+What can I bring?
+What can I expect?
+What can I do for you?

@@ -464,3 +464,9 @@ Who else is ready?
 Who else can go?
 Who else is there?
 Who else is coming?
+
+[79]
+Who wants to join?
+Who wants to know?
+Who wants to go out?
+Who wants to go to the movies?

@@ -482,3 +482,9 @@ How much is it?
 How much is the bill?
 How much is the fee?
 How much is the rent?
+
+[82]
+How was your day?
+How was the movie?
+How was that meeting?
+How was your weekend?

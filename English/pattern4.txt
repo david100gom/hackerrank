@@ -518,3 +518,9 @@ Where do you live?
 Where do you work?
 Where do you want to go?
 Where do you want to eat?
+
+[88]
+Why should I care?
+Why should I worry?
+Why should I do that?
+Why should I believe that?

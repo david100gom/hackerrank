@@ -530,3 +530,9 @@ Why don't you try this?
 Why don't you talk to her?
 Why don't you take a break?
 Why don't you tell the truth?
+
+[90]
+Why didn't you go?
+Why didn't you come?
+Why didn't you tell me?
+Why didn't you do that?

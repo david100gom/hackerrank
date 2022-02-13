@@ -542,3 +542,10 @@ Why are you so sad?
 Why are you so tired?
 Why are you so happy?
 Why are you excited?
+
+[92]
+I feel good
+I feel better
+I feel sorry for her
+I feel bad about it
+

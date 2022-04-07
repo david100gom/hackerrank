@@ -299,3 +299,9 @@ Do you want me to stay?
 Do you want me to talk to him?
 Do you want me to come over?
 
+[44]
+I know how to get there
+I know how to solve the problem
+I know how to cook
+I know how to fix it
+I know how to knit

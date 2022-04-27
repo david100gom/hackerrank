@@ -432,3 +432,10 @@ How long have you been here?
 How long have you been working?
 How long have you been waiting?
 How long have you been doing this?
+
+[63]
+When was the last time you saw it?
+When was the last time we met?
+When was the last time you had fun?
+When was the last time you visited?
+When was the last time you read a book?

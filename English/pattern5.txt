@@ -439,3 +439,11 @@ When was the last time we met?
 When was the last time you had fun?
 When was the last time you visited?
 When was the last time you read a book?
+
+[64]
+Why do you think it happened?
+Why do you think I asked?
+Why do you think I'm here?
+Why do you think it's broken?
+Why do you think I'm angry?
+

@@ -113,3 +113,9 @@ Are you trying to find a job?
 Are you trying to lose weight?
 Are you trying to sell your car?
 Are you trying to find something?
+
+[20]
+Aren't you cold?
+Aren't you tired?
+Aren't you hungry?
+Aren't you worried?

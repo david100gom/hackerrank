@@ -161,3 +161,9 @@ Do you think he knows?
 Do you think it'll be OK?
 Do you think he'll come?
 Do you think this is right?
+
+[28]
+Don't you think so?
+Don't you think it's funny?
+Don't you think it's too much?
+Don't you think we should go?

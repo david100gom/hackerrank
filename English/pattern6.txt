@@ -203,3 +203,9 @@ I like to travel
 I like to read a book
 I like to listen to music
 I like to try new things
+
+[35]
+I don't like to wait
+I don't like to cook
+I don't like to drive
+I don't like to study

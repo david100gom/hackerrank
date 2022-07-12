@@ -227,3 +227,9 @@ I'd like to know
 I'd like to order
 I'd like to ask you
 I'd like to thank you
+
+[39]
+Would you like to eat?
+Would you like to see?
+Would you like to join us?
+Would you like to sign up?

@@ -383,3 +383,9 @@ I've never seen it
 I've never said that
 I've never had a problem
 I've never thought about it
+
+[65]
+Have you ever met him?
+Have you ever tried this?
+Have you ever used this?
+Have you ever been there?

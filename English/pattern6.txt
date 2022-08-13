@@ -407,3 +407,9 @@ Do I have to go?
 Do I have to do that?
 Do I have to wear this?
 Do I have to buy a new one?
+
+[69]
+You will have to wait
+You will have to practice
+You will have to be careful
+You will have to take a bus

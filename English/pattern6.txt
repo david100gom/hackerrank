@@ -509,3 +509,9 @@ How often do you get sick?
 How often do you see them?
 How often do you see a doctor?
 How often do you go to the theater?
+
+[86]
+Where is he?
+Where is the remote?
+Where is the building?
+Where is the bus stop?

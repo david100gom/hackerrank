@@ -332,3 +332,10 @@ I think I should leave
 I think I should go to th hospital
 I think I should go to bed
 I think I should take a break
+
+[49]
+I don't think I should say it
+I don't think I should be here
+I don't think I should go
+I don't think I should eat this
+I don't think I should tell you

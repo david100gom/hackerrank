@@ -598,3 +598,10 @@ I should be able to fix it
 I should be able to buy it
 I should be able to do better
 I should be able to do this myself
+
+[87]
+I should have know the truth
+I should have know about this
+I should have know you were right
+I should have know better
+I shdoul have know what to do 

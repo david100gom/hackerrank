@@ -8,5 +8,7 @@ retrospection : 회고, 회상
 debt : 빚, 부채
 humility : 겸손
 interpretation : 해석, 이해, 설명
+propagation : 전파, 전달, 유전, 번식, 증식
+
 
 

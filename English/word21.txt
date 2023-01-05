@@ -9,6 +9,6 @@ debt : 빚, 부채
 humility : 겸손
 interpretation : 해석, 이해, 설명
 propagation : 전파, 전달, 유전, 번식, 증식
-
+contrary : ~와 다른[반대되는], 반대되는 것, (성질바향이) 정반대되는
 
 

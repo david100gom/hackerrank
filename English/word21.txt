@@ -20,3 +20,5 @@ anechoic : <녹음실 방송실 등이> 울림[반향]이 없는
 chamber : 회의실, 원, 실
 horizontally : 수평으로
 vertical : 수직의, 세로의
+orientation :  방향, 지향, 성향, 오리엔테이션, 예비 교육
+

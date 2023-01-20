@@ -24,3 +24,5 @@ orientation :  방향, 지향, 성향, 오리엔테이션, 예비 교육
 scalability : 확장성
 availability : 가능성
 trivial : 사소한, 하찮은
+reflection : (거을 등에 비친) 상[모습], (빛,열,소리 등의) 반사, 반향, (상태, 속성 등의) 반영
+

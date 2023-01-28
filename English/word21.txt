@@ -32,4 +32,4 @@ furthermore : 뿐만 아니라, 더욱이
 departure : 떠남, 출발, 벗어남
 accurate :  정확한, 정밀한, (목표물에) 명중하는, 정확한
 mandatory : 법에 정해진, 의무적인
-
+phrase : 구정, 구, 관용구

@@ -43,7 +43,6 @@ stiff : 뻣뻣한, 뻑뻑한
 annoy : 짜증나게 하다. 귀찮게 하다
 emphasize : (중요성을) 강조하다. 두드러지게 하다. 강조하다
 compatibility : 양립[공존] 가능성, (컴퓨터의) 호환성
-
-
+resignation : 사직, 사임, 사직원
 
 

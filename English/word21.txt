@@ -45,6 +45,8 @@ emphasize : (중요성을) 강조하다. 두드러지게 하다. 강조하다
 compatibility : 양립[공존] 가능성, (컴퓨터의) 호환성
 resignation : 사직, 사임, 사직원
 mingle : 섞이다, 어우러지다,어울리다
+glucose : 포도당
+
 
 
 

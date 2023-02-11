@@ -47,6 +47,7 @@ resignation : 사직, 사임, 사직원
 mingle : 섞이다, 어우러지다,어울리다
 glucose : 포도당
 debt : 빚, 부채
+retrospection : 회고, 명상
 
 
 

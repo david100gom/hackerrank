@@ -49,5 +49,5 @@ glucose : 포도당
 debt : 빚, 부채
 retrospection : 회고, 명상
 seize : 장악하다, 점령하다, 체포하다, 붙잡다
-
+viable : 실행 가능한, 성공할 수 있는, 독자 생존 가능한
 

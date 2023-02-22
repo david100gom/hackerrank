@@ -57,3 +57,4 @@ tenancy : (주택, 토지 등의) 차용[임차/소작] (기간), 차용[임차/
 awe : 경외감, 외경심
 humility : 겸손
 humidity : 습도, 습함, 습기
+unpredictability : 예측 불가능

@@ -58,3 +58,4 @@ awe : 경외감, 외경심
 humility : 겸손
 humidity : 습도, 습함, 습기
 unpredictability : 예측 불가능
+creep : 살금살금 움직이다

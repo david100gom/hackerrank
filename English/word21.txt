@@ -60,3 +60,5 @@ humidity : 습도, 습함, 습기
 unpredictability : 예측 불가능
 creep : 살금살금 움직이다
 bias : 편견, 편향, 성향
+traceability : 자국 추적 가능성, 거슬러 오를 수 있음
+

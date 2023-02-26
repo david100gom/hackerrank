@@ -62,5 +62,5 @@ creep : 살금살금 움직이다
 bias : 편견, 편향, 성향
 traceability : 자국 추적 가능성, 거슬러 오를 수 있음
 recency : 최신, 새로움
-
+cipher : 암호, 하찮은 사람[것], 이름 첫 글자들
 

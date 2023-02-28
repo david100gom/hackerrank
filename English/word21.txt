@@ -64,3 +64,5 @@ traceability : 자국 추적 가능성, 거슬러 오를 수 있음
 recency : 최신, 새로움
 cipher : 암호, 하찮은 사람[것], 이름 첫 글자들
 redundancy : 정리해고, 중복
+permanent : 영구[영속]적인
+

@@ -65,4 +65,4 @@ recency : 최신, 새로움
 cipher : 암호, 하찮은 사람[것], 이름 첫 글자들
 redundancy : 정리해고, 중복
 permanent : 영구[영속]적인
-
+no matter how : 아무리 ... 한들, 어떻게 하더라도

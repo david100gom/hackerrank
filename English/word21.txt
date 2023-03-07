@@ -70,3 +70,4 @@ nothing is permanent : 영원한 것은 없다
 swollen : 부어오른, 불어 난
 reserve : 예약하다, 따로 잡아 두다, 보류하다, 갖다
 intermediate : 중간의, 중급의
+adverb : 부사

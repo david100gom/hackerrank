@@ -77,4 +77,4 @@ regularly : 정기[규칙] 적으로, 자주, 규치적으로, 균형이 맞게
 take up : 계속하다  
 phrase : 구절, 관용구, 악구
 adjustment : 수정[조정], 적응
-
+lead : 연결되다, 이어지다

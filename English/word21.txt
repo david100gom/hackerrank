@@ -82,4 +82,4 @@ invent : 발명하다, 지어내다
 affect : 영향을 미치다, 발생하다, 충격을 주다
 modification : 수정[변경]
 indeed : 정말[확실히]
-
+fed up : 지긋지긋한, 신물난

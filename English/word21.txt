@@ -87,3 +87,5 @@ observability : 관찰할 수 있음, 식별 가능성
 dividends : 배당금
 nail : 손톱, 발톱, 못
 along : ~을 (죽계속) 따라
+encourage : 격려하다, 용기를 북돋우다
+

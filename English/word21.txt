@@ -91,3 +91,4 @@ encourage : 격려하다, 용기를 북돋우다
 accuracy : 정확, 정확도
 
 
+

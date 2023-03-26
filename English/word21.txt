@@ -89,6 +89,8 @@ nail : 손톱, 발톱, 못
 along : ~을 (죽계속) 따라
 encourage : 격려하다, 용기를 북돋우다
 accuracy : 정확, 정확도
+affiliated : 소속된, 연계된
+
 
 
 

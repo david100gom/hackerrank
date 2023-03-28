@@ -91,7 +91,7 @@ encourage : 격려하다, 용기를 북돋우다
 accuracy : 정확, 정확도
 affiliated : 소속된, 연계된
 root cause : 근본원인
-
+despite : ~ 에도 불구하고
 
 
 

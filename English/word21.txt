@@ -96,6 +96,8 @@ rabbit on about : ~ 에 관해 씨부렁거리다
 vulnerabilities : 취약성
 payroll : 급여 대상자 명단, 급여 지불 총액
 proximity : 가까움[근접]
+delegation : 대표단, 위임
+
 
 
 

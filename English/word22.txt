@@ -1,1 +1,2 @@
 quota : 한도, 몫
+policy : 정책, 방침

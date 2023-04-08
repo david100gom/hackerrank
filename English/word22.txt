@@ -3,6 +3,8 @@ policy : 정책, 방침
 employee : 종업원, 고용인
 attendance: 출석, 참석, 참석자 수, 참석률
 roster : 근무자 명단, 당번표
+scheme : 계획, 제도, 책략
+
 
 
 

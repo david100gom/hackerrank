@@ -7,5 +7,7 @@ scheme : 계획, 제도, 책략
 condemn : 규탄[비난]하다, 선고를 내리다
 sincere : 진실된, 진정한, 진심 어린
 appreciation : 감탄, 감상, 공감, 감사
+honest : 정직한, 솔직한
+
 
 

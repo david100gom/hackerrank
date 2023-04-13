@@ -8,6 +8,6 @@ condemn : 규탄[비난]하다, 선고를 내리다
 sincere : 진실된, 진정한, 진심 어린
 appreciation : 감탄, 감상, 공감, 감사
 honest : 정직한, 솔직한
-
+arouse : 불러일으키다, 자극하다
 
 

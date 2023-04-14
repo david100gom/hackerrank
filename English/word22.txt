@@ -10,4 +10,4 @@ appreciation : 감탄, 감상, 공감, 감사
 honest : 정직한, 솔직한
 arouse : 불러일으키다, 자극하다
 dramatize : 각색하다. 극적으로 보이게 하다
-
+compromise : 타협[절충], 절충해서 나온것

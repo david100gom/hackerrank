@@ -13,3 +13,4 @@ dramatize : 각색하다. 극적으로 보이게 하다
 compromise : 타협[절충], 절충해서 나온것
 nobel : 고결한, 고귀한, 숭고한
 appeal : 항소, 상고, 매력, 호소, 간청, 애원
+sympathetic : 동정적인, 동정어린

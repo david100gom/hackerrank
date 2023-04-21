@@ -17,6 +17,6 @@ sympathetic : 동정적인, 동정어린
 tenacity : 고집, 끈기, 강인함
 motivation : 자극, 유두, 동기부여, 학습 의욕 유발
 intrinsic :고유한, 본질적인
-
+growth : 성장, 증가
 
 

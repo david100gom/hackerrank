@@ -19,4 +19,4 @@ motivation : 자극, 유두, 동기부여, 학습 의욕 유발
 intrinsic :고유한, 본질적인
 growth : 성장, 증가
 resilience : 회복력, 탄성, 탄력
-
+compliment : 찬사, 칭찬하다

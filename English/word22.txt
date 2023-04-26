@@ -22,4 +22,4 @@ resilience : 회복력, 탄성, 탄력
 compliment : 찬사, 칭찬하다
 yell : 소리, 외치다, 고함, 외침
 convince : 납득시키다, 설득하다
-
+embarrass : 당황스럽게 만들다, 곤란하게 만들다

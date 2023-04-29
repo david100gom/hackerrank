@@ -25,3 +25,4 @@ convince : 납득시키다, 설득하다
 embarrass : 당황스럽게 만들다, 곤란하게 만들다
 emphatically : 강조하여, 힘차게, 단호히, 전혀, 단연코
 admit : 인정[시인]하다
+output :생산량, 산출량, 출력

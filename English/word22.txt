@@ -33,4 +33,4 @@ appreciation : 감탄, 감상, 공감, 감사
 sincerity : 성실, 정직
 condemn : 규탄[비난]하다. 선고를 내리다
 CAGR : 연평균 성장률 (Compound Annual Growth Rate)
-
+severe : 극심한, 심각한, 엄격한, 가혹한

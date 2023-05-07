@@ -32,3 +32,5 @@ arouse : (느낌, 태도를) 불러일으키다. 분발하다. 각성하다. (�
 appreciation : 감탄, 감상, 공감, 감사
 sincerity : 성실, 정직
 condemn : 규탄[비난]하다. 선고를 내리다
+CAGR : 연평균 성장률 (Compound Annual Growth Rate)
+

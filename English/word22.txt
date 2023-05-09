@@ -35,3 +35,4 @@ condemn : 규탄[비난]하다. 선고를 내리다
 CAGR : 연평균 성장률 (Compound Annual Growth Rate)
 severe : 극심한, 심각한, 엄격한, 가혹한
 criticize : 비판[비난]하다. 비평하다
+credential : 자격증을 수여하다. 신임장, 증명서, 자격 증명서

@@ -40,3 +40,5 @@ appreciate : 진가를 알아보다[인정하다], (제대로) 인식하다. 고
 mechanic : 정비사, 역학
 appreciation : 감탄, 감상,공감, 감사
 bond : 유대, 끈, 채권, 보석금
+alternative : 대안, 선택 가능한것, 대체 가능한, 대안적인
+

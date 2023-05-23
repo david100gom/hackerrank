@@ -48,3 +48,5 @@ crawl : 기어다가, 기다, 포복하다, 서행하다
 quantity : 양, 수량, 분량, 다량, 다수
 eggplant : 가지
 ward : 실, 구, 피보호자
+intersect : 교차하다[만나다], 가로지르다
+

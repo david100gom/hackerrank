@@ -53,3 +53,4 @@ what if : 가정, 만약의 문제, ~ 면 어쩌지, ~라면 어떻게 될까?
 credential : 자격, 적격, 적성, 자격 증명서
 invade : 침략하다, 침해하다
 acyclic : 비순환적인
+duration : 지속, 기간

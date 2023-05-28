@@ -54,3 +54,4 @@ credential : 자격, 적격, 적성, 자격 증명서
 invade : 침략하다, 침해하다
 acyclic : 비순환적인
 duration : 지속, 기간
+stride : 걸음걸이, 보폭, 성큼성큼 걷다

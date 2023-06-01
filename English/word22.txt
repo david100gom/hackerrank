@@ -57,4 +57,4 @@ duration : 지속, 기간
 stride : 걸음걸이, 보폭, 성큼성큼 걷다
 qualify : 자격을 얻다
 fight off : 싸워서 물리치다[격퇴하다]
-
+drop by : 들르다[방문하다]

@@ -61,4 +61,6 @@ drop by : 들르다[방문하다]
 pioneer : 개척자, 선구자
 pragmatism : 실용주의
 adjustment : 수정[조정], 적응
+discipline : 단련, 수양, 억제, 자제, 극기, 기율, 기강, 질서
+
 

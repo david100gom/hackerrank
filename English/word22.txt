@@ -63,6 +63,6 @@ pragmatism : 실용주의
 adjustment : 수정[조정], 적응
 discipline : 단련, 수양, 억제, 자제, 극기, 기율, 기강, 질서
 lead : 안내하다, 선두, 앞섬
-
+invent : 발명하다, 지어내다
 
 

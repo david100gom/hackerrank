@@ -65,4 +65,4 @@ discipline : 단련, 수양, 억제, 자제, 극기, 기율, 기강, 질서
 lead : 안내하다, 선두, 앞섬
 invent : 발명하다, 지어내다
 affect : 영향을 미치다.
-
+conductor : 지휘차, 열차 승무원

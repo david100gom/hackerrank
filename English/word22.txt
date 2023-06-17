@@ -72,4 +72,4 @@ monstrous : 도저히 말도 안되는, 가공할, 거대한, 무시무시한게
 observability : 관찰할 수 있음, 식별 가능성, 주목할 만한
 dividends : 배당금
 immigrant : 이민자
-
+flour : 곡물가루

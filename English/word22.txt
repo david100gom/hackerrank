@@ -73,3 +73,4 @@ observability : 관찰할 수 있음, 식별 가능성, 주목할 만한
 dividends : 배당금
 immigrant : 이민자
 flour : 곡물가루
+dinosaur : 공룡

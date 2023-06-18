@@ -74,3 +74,5 @@ dividends : 배당금
 immigrant : 이민자
 flour : 곡물가루
 dinosaur : 공룡
+encourage : 격려하다, 고무하다, 용기를 북돋우다, 부추기다, 조장하다
+

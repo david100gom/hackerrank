@@ -77,3 +77,4 @@ dinosaur : 공룡
 encourage : 격려하다, 고무하다, 용기를 북돋우다, 부추기다, 조장하다
 lettuce : 상추
 reliable : 믿을[신뢰할]수 있는
+alternative : 대안, 선택 가능한것, 대체 가능한, 대안이 되는

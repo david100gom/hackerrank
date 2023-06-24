@@ -79,3 +79,4 @@ lettuce : 상추
 reliable : 믿을[신뢰할]수 있는
 alternative : 대안, 선택 가능한것, 대체 가능한, 대안이 되는
 copilot : 부조종사, 운전 조수
+clerk : 사무원, 판매원

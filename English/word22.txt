@@ -82,3 +82,4 @@ copilot : 부조종사, 운전 조수
 clerk : 사무원, 판매원
 complaint : 불평[항의]
 outdated : 구식인
+dictate : 받아쓰게 하다, 명령, 지시하다

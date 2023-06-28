@@ -84,3 +84,4 @@ complaint : 불평[항의]
 outdated : 구식인
 dictate : 받아쓰게 하다, 명령, 지시하다
 sanity : 분별, 온전한 정신
+stability : 안정, 안정성[감]

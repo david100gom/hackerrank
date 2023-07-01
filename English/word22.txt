@@ -86,3 +86,5 @@ dictate : 받아쓰게 하다, 명령, 지시하다
 sanity : 분별, 온전한 정신
 stability : 안정, 안정성[감]
 though : (비록) ~ 이긴 하지만[~ 인데도/ ~ 일지라도], 그렇지만
+objective : 목표, 목적
+

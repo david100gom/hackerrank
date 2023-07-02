@@ -88,4 +88,4 @@ stability : 안정, 안정성[감]
 though : (비록) ~ 이긴 하지만[~ 인데도/ ~ 일지라도], 그렇지만
 objective : 목표, 목적
 what if : ~면 어쩌지[~ 라면 어떻게 될까]?
-
+initiative : 계획, 주도권, 주도, 진취성

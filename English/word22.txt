@@ -92,3 +92,4 @@ initiative : 계획, 주도권, 주도, 진취성
 eggplant : 가지(나무)
 emphatically : 강조하여, 힘차게, 전혀, 단연코
 consensus : 교감, 일치, 합의, 여론
+motivation : 자극, 유도

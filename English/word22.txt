@@ -95,3 +95,4 @@ consensus : 교감, 일치, 합의, 여론
 motivation : 자극, 
 praise : 칭찬, 찬사, 칭찬하다
 cumulative : 누적되는, 누계의
+criticize : 비판하다. 비난하다

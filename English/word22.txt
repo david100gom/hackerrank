@@ -98,3 +98,5 @@ cumulative : 누적되는, 누계의
 criticize : 비판하다. 비난하다
 tenacity : 고집, 끈기, 강인함
 indicator : 지표, 계기, 방향 표시등
+proximity : 가까움, 근접
+

@@ -100,3 +100,4 @@ tenacity : 고집, 끈기, 강인함
 indicator : 지표, 계기, 방향 표시등
 proximity : 가까움, 근접
 dramatize : 각색하다
+adjustment : 수정, 조정, 적용

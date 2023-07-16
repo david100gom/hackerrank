@@ -102,4 +102,4 @@ proximity : 가까움, 근접
 dramatize : 각색하다
 adjustment : 수정, 조정, 적용
 slay : 죽이다, 살인하다
-
+retention : 보유, 전체, 잔류, 기억

@@ -104,3 +104,4 @@ adjustment : 수정, 조정, 적용
 slay : 죽이다, 살인하다
 retention : 보유, 전체, 잔류, 기억
 priority : 우선사항, 우선
+duration : 지속,(지속되는) 기간

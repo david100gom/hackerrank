@@ -107,3 +107,4 @@ priority : 우선사항, 우선
 duration : 지속,(지속되는) 기간
 descent : 내리막, 내려가기, 하강
 fate : 운명
+lettuce : 상추

@@ -110,3 +110,5 @@ fate : 운명
 lettuce : 상추
 ascent : 올라감, 오르막, 상승
 I couldn't agree more : 대찬성입니다.
+azimuth : 방위각
+

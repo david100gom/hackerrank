@@ -114,3 +114,4 @@ azimuth : 방위각
 persuasive : 설득력 있는
 bankruptcy : 파산, 파탄
 farewell : 작별 (인사), 안녕히 가세요[계세요]
+immutable : 불변의, 변경되지 않는

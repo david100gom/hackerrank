@@ -118,3 +118,5 @@ immutable : 불변의, 변경되지 않는
 addiction : 탐닉, (마약 등의) 중독, 열중, 몰두
 entropy : 예측불허, 엔트로피(시스템 내 정보의 불확실성 정도를 나타내는 용어)
 adjustment : 수정, 적응
+excerpt : 발췌, 인용구
+

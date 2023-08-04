@@ -120,3 +120,4 @@ entropy : 예측불허, 엔트로피(시스템 내 정보의 불확실성 정도
 adjustment : 수정, 적응
 excerpt : 발췌, 인용구
 capacity : 수용력, 용적, 용량
+retention : 보유, 유지, 정체, 기억

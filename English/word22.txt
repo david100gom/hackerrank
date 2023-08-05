@@ -122,4 +122,6 @@ excerpt : 발췌, 인용구
 capacity : 수용력, 용적, 용량
 retention : 보유, 유지, 정체, 기억
 intersect : 가로지르다, 교차하다, 엇갈리다
+encourage : 격려하다, 용기를 북돋우다, 권장하다, 부추기다, 조장하다
+
 

@@ -124,4 +124,4 @@ retention : 보유, 유지, 정체, 기억
 intersect : 가로지르다, 교차하다, 엇갈리다
 encourage : 격려하다, 용기를 북돋우다, 권장하다, 부추기다, 조장하다
 as well : 또한, 역시
-
+emphatically : 강조하여, 힘차게, 단호히, 전혀, 단연코

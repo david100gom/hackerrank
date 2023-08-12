@@ -129,3 +129,5 @@ insane : 정신 이상의, 미친, 제정신이 아닌
 capacity : 용량, 용적, 수용력
 compromise : 타협, 절충
 as well : 또한, 역시
+indeed : 정말[확실히],  정말[참으로], 사실[실은]
+

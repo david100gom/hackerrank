@@ -130,4 +130,4 @@ capacity : 용량, 용적, 수용력
 compromise : 타협, 절충
 as well : 또한, 역시
 indeed : 정말[확실히],  정말[참으로], 사실[실은]
-
+praise : 칭찬, 찬사, 찬양, 칭찬하다

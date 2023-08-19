@@ -1,3 +1,4 @@
 introvert : 내성시키다, 내향적인 사람, 내성적인
 fundamental : 기본적인, 근원의, 기본, 근본, 기초 
 regression : 복귀, 퇴보, 퇴화, 회귀
+extrovert : 외향적인 사람, 외향성

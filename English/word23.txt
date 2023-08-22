@@ -3,4 +3,4 @@ fundamental : 기본적인, 근원의, 기본, 근본, 기초
 regression : 복귀, 퇴보, 퇴화, 회귀
 extrovert : 외향적인 사람, 외향성
 aversion : 싫음, 반감, 혐오, 싫은 것
-
+recipient : 받는 사람, 수령[수취]인

@@ -4,3 +4,4 @@ regression : 복귀, 퇴보, 퇴화, 회귀
 extrovert : 외향적인 사람, 외향성
 aversion : 싫음, 반감, 혐오, 싫은 것
 recipient : 받는 사람, 수령[수취]인
+leverage : 영향력, 지렛대 사용, 차입 자본 이용, 수단, 권력

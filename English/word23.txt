@@ -7,3 +7,4 @@ recipient : 받는 사람, 수령[수취]인
 leverage : 영향력, 지렛대 사용, 차입 자본 이용, 수단, 권력
 dividend : 배당금, 상금
 persuasive : 설득력 있는
+disorganized : 조직이 문란한, 엉터리의, 부주의한

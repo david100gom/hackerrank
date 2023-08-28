@@ -9,3 +9,5 @@ dividend : 배당금, 상금
 persuasive : 설득력 있는
 disorganized : 조직이 문란한, 엉터리의, 부주의한
 resurrect : 부활시키나, 소생시키다
+leakage : 누출, 누설
+

@@ -12,3 +12,4 @@ resurrect : 부활시키나, 소생시키다
 leakage : 누출, 누설
 betrayal : 배반, 배신, 밀고, 내통
 cognitive : 인식의, 인식력 있는
+scatter : 흩뿌리다, 뿌리다, 낭비하다

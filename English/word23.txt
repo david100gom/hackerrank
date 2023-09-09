@@ -20,3 +20,4 @@ condemn : 규탄[비난]하다. 선고를 내리다.
 depression : 우울증, 우을함, 암울함, 불경기
 retrieval :검색, 되찾아 옴, 회수
 impart : 전하다, 주다
+ephemeral : 수명이 짧은, 단명하는, 순식간의, 덧없는

@@ -19,3 +19,4 @@ contraband : 밀매매풀, 밀수품, 불법 거래, 밀수
 condemn : 규탄[비난]하다. 선고를 내리다.
 depression : 우울증, 우을함, 암울함, 불경기
 retrieval :검색, 되찾아 옴, 회수
+impart : 전하다, 주다

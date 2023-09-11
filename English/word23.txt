@@ -22,3 +22,4 @@ retrieval :검색, 되찾아 옴, 회수
 impart : 전하다, 주다
 ephemeral : 수명이 짧은, 단명하는, 순식간의, 덧없는
 duration : 지속, 지속되는 시간
+adjective : 형용사

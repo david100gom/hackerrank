@@ -24,3 +24,4 @@ ephemeral : 수명이 짧은, 단명하는, 순식간의, 덧없는
 duration : 지속, 지속되는 시간
 adjective : 형용사
 respiration : 호흡, 호흡 작용
+breed :낳다, 사육하다, 개량하다, 교배시키다

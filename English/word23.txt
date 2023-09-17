@@ -28,3 +28,4 @@ breed :낳다, 사육하다, 개량하다, 교배시키다
 accuracy : 정확, 정확도
 annoying : 짜증스러운
 judge : 판사, 심판, 심사위원, 감정가, 감식가
+retrieval : 검색, 회수, 되찾아 옴

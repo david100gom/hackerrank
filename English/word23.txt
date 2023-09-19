@@ -29,3 +29,4 @@ accuracy : 정확, 정확도
 annoying : 짜증스러운
 judge : 판사, 심판, 심사위원, 감정가, 감식가
 retrieval : 검색, 회수, 되찾아 옴
+seize : 체포하다, 붙잡다, 장악하다, 정렴하다

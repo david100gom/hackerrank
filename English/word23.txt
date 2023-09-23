@@ -33,3 +33,4 @@ seize : 체포하다, 붙잡다, 장악하다, 정렴하다
 criticize : 비판하다, 비평하다
 feather : 털, 깃털
 proportion : 균형, 부분, 비율
+subsequently : 그후에, 그 다음에, 이어서, 그결과로

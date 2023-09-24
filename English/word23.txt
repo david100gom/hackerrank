@@ -35,3 +35,4 @@ feather : 털, 깃털
 proportion : 균형, 부분, 비율
 subsequently : 그후에, 그 다음에, 이어서, 그결과로
 collocate : 나란히 놓다, 배열하다, 배치하다
+emphasize : 강좌하다, 힘주어 말하다, 역설하다

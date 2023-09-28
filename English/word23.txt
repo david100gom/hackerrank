@@ -39,3 +39,4 @@ emphasize : 강좌하다, 힘주어 말하다, 역설하다
 surge : 밀려들다, 급등하다
 confident : 자신감 있는, 확신하는
 narrative : 서술(기법), 묘사
+stand for : ~을 의미하다, ~을 대표하다, ~을 상징하다

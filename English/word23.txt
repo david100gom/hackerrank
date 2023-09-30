@@ -41,3 +41,4 @@ confident : 자신감 있는, 확신하는
 narrative : 서술(기법), 묘사
 stand for : ~을 의미하다, ~을 대표하다, ~을 상징하다
 polarization : 대립, 분극화
+consist : 되어 있다, 이루어져 있다, (..에) 존재하다

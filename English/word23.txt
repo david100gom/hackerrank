@@ -49,3 +49,4 @@ provision : 조항, 규정, 공급, 지급
 permanent : 영구적인, 영속적인
 attractive : 인력이 있는, 매력적인, 애교 있는
 conservative : 보수적인, 영국 보수당의, (실제 수나 양보다) 적게 잡은
+landscaping : 조경

@@ -52,3 +52,4 @@ conservative : 보수적인, 영국 보수당의, (실제 수나 양보다) 적�
 landscaping : 조경
 contingency :우연성, 우발 사건, 임시 비용, 뜻밖의 사고, 부수 사고
 permanent :영구[영속]적인
+fidelity : 충실, 성실, 충성

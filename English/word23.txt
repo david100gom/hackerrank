@@ -53,3 +53,4 @@ landscaping : 조경
 contingency :우연성, 우발 사건, 임시 비용, 뜻밖의 사고, 부수 사고
 permanent :영구[영속]적인
 fidelity : 충실, 성실, 충성
+immutable : 불변의 , 변경되지 않는

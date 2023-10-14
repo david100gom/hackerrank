@@ -55,3 +55,4 @@ permanent :영구[영속]적인
 fidelity : 충실, 성실, 충성
 immutable : 불변의 , 변경되지 않는
 particularly : 특히, 각별히, 자세히, 별개로
+functionality : 기능성, 상관성, 상관관계

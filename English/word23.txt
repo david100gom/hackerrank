@@ -58,3 +58,4 @@ particularly : 특히, 각별히, 자세히, 별개로
 functionality : 기능성, 상관성, 상관관계
 contingency : 우연성, 우발 사건, 임시 비용
 sibling : 형제자매
+severance :단절, 고용 계약 해지, 해고

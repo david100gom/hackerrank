@@ -60,3 +60,4 @@ contingency : 우연성, 우발 사건, 임시 비용
 sibling : 형제자매
 severance :단절, 고용 계약 해지, 해고
 detention : 구금[구류], 방과 후 남게 하기
+privilege : 특전, 특혜, 특권, 영광

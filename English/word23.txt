@@ -62,3 +62,4 @@ severance :단절, 고용 계약 해지, 해고
 detention : 구금[구류], 방과 후 남게 하기
 privilege : 특전, 특혜, 특권, 영광
 assurance : 보증, 언질, 보장, 확실성, 확신
+surge : 밀려들다, 휩싸다. 휘감다, 급등하다, 급증하다

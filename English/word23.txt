@@ -66,3 +66,4 @@ surge : 밀려들다, 휩싸다. 휘감다, 급등하다, 급증하다
 vanity : 허영심, 자만심, 공허, 허무함
 influence : 영향, 영향력
 weekday : 평일
+fallacy : 허위, 기만성, 착오

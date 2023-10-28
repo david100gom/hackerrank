@@ -68,3 +68,4 @@ influence : 영향, 영향력
 weekday : 평일
 fallacy : 허위, 기만성, 착오
 privilege : 특전, 특권, 영광
+topology : 위상 기하학, 위상 심리학

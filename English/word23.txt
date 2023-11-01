@@ -71,3 +71,4 @@ privilege : 특전, 특권, 영광
 topology : 위상 기하학, 위상 심리학
 savory : 맛좋은, 향긋한, 즐거운, 기분좋은
 tourist attraction : 광관 명소
+whoever : 누구나, 어떤 사람이든지, ~ 하더라도, 도대체 누가

@@ -73,3 +73,4 @@ savory : 맛좋은, 향긋한, 즐거운, 기분좋은
 tourist attraction : 광관 명소
 whoever : 누구나, 어떤 사람이든지, ~ 하더라도, 도대체 누가
 sightseeing  : 관광
+permanent : 영구[영속]적인

@@ -76,3 +76,4 @@ sightseeing  : 관광
 permanent : 영구[영속]적인
 mandatory : 법에 정해진, 의무적인
 perpetual : 빈번한, 빈번히 계속되는, 종신의, 끊임없니 계속되는
+adjacent : 인접한, 가까운

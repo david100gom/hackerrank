@@ -79,3 +79,4 @@ perpetual : 빈번한, 빈번히 계속되는, 종신의, 끊임없니 계속되
 adjacent : 인접한, 가까운
 fountain : 분수, 원천
 precious : 귀중한, 값비싼, 소중한, 귀한
+retrospection : 회고, 회상

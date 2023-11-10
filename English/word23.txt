@@ -81,3 +81,4 @@ fountain : 분수, 원천
 precious : 귀중한, 값비싼, 소중한, 귀한
 retrospection : 회고, 회상
 strict : 엄격한
+scenery : 경치, 풍경, 배경

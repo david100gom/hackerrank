@@ -82,3 +82,4 @@ precious : 귀중한, 값비싼, 소중한, 귀한
 retrospection : 회고, 회상
 strict : 엄격한
 scenery : 경치, 풍경, 배경
+sanctuary : 보호구역, 안식, 보호, 피난처

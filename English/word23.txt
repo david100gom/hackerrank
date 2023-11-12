@@ -83,3 +83,4 @@ retrospection : 회고, 회상
 strict : 엄격한
 scenery : 경치, 풍경, 배경
 sanctuary : 보호구역, 안식, 보호, 피난처
+appreciate : 고마워하다, 환영하다, 인식하다, 인정하다

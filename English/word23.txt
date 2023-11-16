@@ -86,3 +86,4 @@ sanctuary : 보호구역, 안식, 보호, 피난처
 appreciate : 고마워하다, 환영하다, 인식하다, 인정하다
 impart : 전하다, 주다
 congested : 붐비는, 혼잡한, 충혈된
+confident : 자신감 있는, 확신하는

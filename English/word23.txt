@@ -91,3 +91,4 @@ properly : 제대로, 적절히, 올바로, 실은, 사실
 compromise : 타협, 절충
 confess : 자백하다, 고백하다
 innocent : 무죄인, 결백한, 무고한
+fountain : 분수, 원천, 분수처럼 뿜어져 나오는 것

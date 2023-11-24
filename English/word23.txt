@@ -94,3 +94,4 @@ innocent : 무죄인, 결백한, 무고한
 fountain : 분수, 원천, 분수처럼 뿜어져 나오는 것
 perpetual : 빈번한, 종신의, 끊임없이 계속되는
 predetermine : 미리 결정하다
+quantitative : 양적인

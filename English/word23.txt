@@ -96,3 +96,4 @@ perpetual : 빈번한, 종신의, 끊임없이 계속되는
 predetermine : 미리 결정하다
 quantitative : 양적인
 scenery : 경치, 풍경, 배경, 무대장치
+touristy : 관광객에게 인기 있는

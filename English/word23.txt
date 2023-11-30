@@ -100,3 +100,4 @@ touristy : 관광객에게 인기 있는
 landscaping : 조경
 innocent : 악의 없는, 무죄인, 결백한
 congested : 붐비는, 혼잡한, 충혈된
+cobbled : 자갈을 깐

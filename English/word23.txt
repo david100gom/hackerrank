@@ -103,3 +103,4 @@ congested : 붐비는, 혼잡한, 충혈된
 cobbled : 자갈을 깐
 cosmopolitan : 세계인, 범세계주위자
 adjacent : 인접한, 가까운
+obsessive :강박적인, 강박 관념에 사로잡혀 있는 사람

@@ -107,3 +107,4 @@ obsessive :강박적인, 강박 관념에 사로잡혀 있는 사람
 confident : 자신감 있는, 확신하는
 cater : 음식을 공급하다
 cardio : 심장 강화 운동
+as well : 또한, 역시

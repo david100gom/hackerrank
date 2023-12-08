@@ -108,3 +108,4 @@ confident : 자신감 있는, 확신하는
 cater : 음식을 공급하다
 cardio : 심장 강화 운동
 as well : 또한, 역시
+admire : 존경하다, 칭찬하다

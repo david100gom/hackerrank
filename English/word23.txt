@@ -109,3 +109,4 @@ cater : 음식을 공급하다
 cardio : 심장 강화 운동
 as well : 또한, 역시
 admire : 존경하다, 칭찬하다
+tragic : 비극적인, 비극의

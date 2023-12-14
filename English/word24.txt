@@ -2,3 +2,4 @@ surge : 밀려들다, 휩싸다, 급등[긍증]하다
 retrieval : 검색, 회수
 odds : 역경, 곤란, 배당률
 tragic : 비극의, 비극적인
+estimator : 평가자, 견적인

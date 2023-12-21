@@ -9,3 +9,4 @@ abandon : 버리고 떠나다, 버리다, 포기하다.
 predetermine : 미리 결정하다
 surge : 밀려들다, 휩싸다, 휘감다, 급등하다, 급증하다
 privilege : 특전, 특권, 영광
+confess : 자백하다, 고백하다

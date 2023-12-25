@@ -13,3 +13,4 @@ confess : 자백하다, 고백하다
 compromise : 타협, 절충
 estimate : 추정, 추산, 견적서, 추산하다
 conduct : 지휘하다, 안내하다, (특정한 활동을) 하다
+retrospection : 회고, 회상

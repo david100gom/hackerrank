@@ -16,3 +16,4 @@ conduct : 지휘하다, 안내하다, (특정한 활동을) 하다
 retrospection : 회고, 회상
 mandatory : 법에 정해진, 의무적인
 retrieve : 되찾아오다, 회수하다, 검색하다
+employee : 종업원, 고용인

@@ -17,3 +17,4 @@ retrospection : 회고, 회상
 mandatory : 법에 정해진, 의무적인
 retrieve : 되찾아오다, 회수하다, 검색하다
 employee : 종업원, 고용인
+corresponding : (~에) 해당[상응] 하는

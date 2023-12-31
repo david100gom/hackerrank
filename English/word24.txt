@@ -19,3 +19,4 @@ retrieve : 되찾아오다, 회수하다, 검색하다
 employee : 종업원, 고용인
 corresponding : (~에) 해당[상응] 하는
 asystole : 심장박동의 정지 또는 결여
+surge : 밀려들다, 급등하다, 휩싸다

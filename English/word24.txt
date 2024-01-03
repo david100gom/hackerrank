@@ -21,3 +21,4 @@ corresponding : (~에) 해당[상응] 하는
 asystole : 심장박동의 정지 또는 결여
 surge : 밀려들다, 급등하다, 휩싸다
 variability : 가변성, 변동성
+relevant : 관련 있는, 적절한, 의의가 있는

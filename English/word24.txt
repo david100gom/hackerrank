@@ -25,3 +25,4 @@ relevant : 관련 있는, 적절한, 의의가 있는
 clarify : 명확하게 하다, 분명히 말하다. 투명하게 만들다
 intrinsic : 고유한, 본질적인
 provision : 조항, 규정, 조관
+credential : 신임장, 자격, 적격, 적성

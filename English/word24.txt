@@ -28,3 +28,4 @@ provision : 조항, 규정, 조관
 credential : 신임장, 자격, 적격, 적성
 achievable : 성취(달성)할수 있는
 phobia : 공포증
+conduct : 하다, 지휘하다, 안내하다

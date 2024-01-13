@@ -31,3 +31,4 @@ phobia : 공포증
 conduct : 하다, 지휘하다, 안내하다
 resurrection : 부흥, 부활, 재유행
 cathedral : 대성당
+collocate : 나란히 놓다, 배열하다, 배치하다

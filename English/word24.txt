@@ -34,3 +34,4 @@ cathedral : 대성당
 collocate : 나란히 놓다, 배열하다, 배치하다
 sanctuary : 보호구역, 안식, 보호, 피난처, 안식처
 abandon : 버리고 떠나다, 버리다, 유기하다, 포기하다
+cater : 음식을 공급하다

@@ -41,3 +41,4 @@ polluted : 오염된, 더럽혀진
 conjunction : 결합, 연결, 접속
 naive : 순진한, 순진무구한, 순진해 빠진
 occupancy : 사용
+estimator : 평가자, 견적인

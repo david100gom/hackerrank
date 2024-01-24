@@ -42,3 +42,4 @@ conjunction : 결합, 연결, 접속
 naive : 순진한, 순진무구한, 순진해 빠진
 occupancy : 사용
 estimator : 평가자, 견적인
+ransom : 몸값, 몸값을 지불하다

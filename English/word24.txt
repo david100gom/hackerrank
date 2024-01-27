@@ -45,3 +45,4 @@ estimator : 평가자, 견적인
 ransom : 몸값, 몸값을 지불하다
 mandatory : 의무적인, 법에 정해진
 relevant : 관련 있는, 적절한, 의의가 있는
+securities : 증권

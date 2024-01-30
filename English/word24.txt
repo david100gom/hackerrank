@@ -48,3 +48,4 @@ relevant : 관련 있는, 적절한, 의의가 있는
 securities : 증권
 discipline : 단련, 수양, 억제, 자제, 극기, 기강
 admit : 인정하다, 자백하다, 들어가게 하다, 입장을 허락하다
+retrieval : 검색, 회수, 되찾아 옴

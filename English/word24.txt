@@ -52,3 +52,4 @@ retrieval : 검색, 회수, 되찾아 옴
 investigate : 수사하다, 조사하다, 살피다
 severe : 극심한, 심각한, 엄한, 엄격한
 abandon : 버리다, 포기하다
+upfront : 선불의, 솔직한

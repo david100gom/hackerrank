@@ -54,3 +54,4 @@ severe : 극심한, 심각한, 엄한, 엄격한
 abandon : 버리다, 포기하다
 upfront : 선불의, 솔직한
 collocate : 나란히 놓다, 배열하다, 배치하다, 연결시키다
+satisfaction : 만족을 주는것, 만족함

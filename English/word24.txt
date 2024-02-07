@@ -56,3 +56,4 @@ upfront : 선불의, 솔직한
 collocate : 나란히 놓다, 배열하다, 배치하다, 연결시키다
 satisfaction : 만족을 주는것, 만족함
 aversion : 싫은 것, 싫음, 반감, 혐오
+variability : 가변성, 변동성

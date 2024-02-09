@@ -58,3 +58,4 @@ satisfaction : 만족을 주는것, 만족함
 aversion : 싫은 것, 싫음, 반감, 혐오
 variability : 가변성, 변동성
 leeway : 자유 [재량]
+downturn : 감소[하락], 하강[침체]

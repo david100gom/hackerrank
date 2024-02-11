@@ -60,3 +60,4 @@ variability : 가변성, 변동성
 leeway : 자유 [재량]
 downturn : 감소[하락], 하강[침체]
 estimator : 평가자, 견적인
+relevant : 관련 있는, 적절한, 의의가 있는

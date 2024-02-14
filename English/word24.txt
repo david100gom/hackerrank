@@ -62,3 +62,4 @@ downturn : 감소[하락], 하강[침체]
 estimator : 평가자, 견적인
 relevant : 관련 있는, 적절한, 의의가 있는
 vault : 금고, 지하 납골당, 아치형 지붕
+sanctuary : 보호구역, 안식, 보호, 피난처 

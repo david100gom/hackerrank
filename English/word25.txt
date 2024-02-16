@@ -1,2 +1,3 @@
 untraceable : 추적할 수 없는, 찾아낼 수 없는
 come from : ~의 출신이다, ~ 에서 생기다
+applicable : 해당되는, 적용되는

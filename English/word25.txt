@@ -18,3 +18,4 @@ dormitory : 공동침실, 기숙사
 adoption : 입양, 채택, 선정
 ba able to : ~ 할수 있다
 be different from : ~ 와 다르다
+be full of : ~ 으로 가득 차다

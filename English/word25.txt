@@ -25,3 +25,4 @@ adoption : 입양, 채택, 선정
 orchestrate :조직하다, 오케스트라용으로 편곡하다.
 A such as B [such A as B] : B 와 같은 A
 for example[instance] : 예를 들면
+for a long time : 오랫동안

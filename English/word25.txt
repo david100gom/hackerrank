@@ -28,3 +28,4 @@ for example[instance] : 예를 들면
 for a long time : 오랫동안
 each other : 서로
 tenacity : 고집, 끈기, 강인함, 완강, 불굴, 점착력
+bistro : 작은 식당

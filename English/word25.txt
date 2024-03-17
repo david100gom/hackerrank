@@ -30,3 +30,4 @@ each other : 서로
 tenacity : 고집, 끈기, 강인함, 완강, 불굴, 점착력
 bistro : 작은 식당
 savory : 맛좋은, 기분좋은, 즐거운
+in order to 동사 [so as to 동사] : ~ 하기 위하여

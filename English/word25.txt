@@ -48,3 +48,4 @@ keep [on] 동사 ~ing : 계속[줄곧] ~ 하다
 subject : 주제, 과목, 실험 대상, 영향받기 쉬운, 복속시키다
 adoption : 입양, 채택, 선정
 be interested in ~ 에 관심[흥미]이 있다.
+be late for : ~ 에 늦다 [지각하다]

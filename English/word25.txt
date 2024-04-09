@@ -53,3 +53,4 @@ underlying : 근본적인, 근원적인, 밑에 있는
 optimistic : 낙관적인, 낙관하는
 be likely to 동사 ~ 할것 같다
 according to 명사 ~ ~ 에 의하면, ~에 따라서
+pessimistic : 비관적인, 비관주의적인

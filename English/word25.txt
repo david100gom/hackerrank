@@ -58,3 +58,4 @@ according to 명사 : ~에 의하면, ~에 따라서
 allow : 허락하다, 허용하다
 inject : 주입하다, 주사하다
 embed : 박다, 끼워 넣다
+instead of : 대신에

@@ -60,3 +60,4 @@ inject : 주입하다, 주사하다
 embed : 박다, 끼워 넣다
 instead of : 대신에
 reduce : 줄이다, 축소하다
+as a result : 결과적으로

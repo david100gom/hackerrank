@@ -61,3 +61,4 @@ embed : 박다, 끼워 넣다
 instead of : 대신에
 reduce : 줄이다, 축소하다
 as a result : 결과적으로
+in fact : 사실상, 실제로

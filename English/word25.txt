@@ -63,3 +63,4 @@ reduce : 줄이다, 축소하다
 as a result : 결과적으로
 in fact : 사실상, 실제로
 individual : 개인[개개]의 , 개인
+enclose : 동봉하다, 둘러싸다

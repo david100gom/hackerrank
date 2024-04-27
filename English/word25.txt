@@ -70,3 +70,4 @@ various : 다양한
 go out : 외출하다, 밖에 나가다. 사귀다, 데이트 하다, (불이) 꺼지다
 wake up : 깨어나다, 깨우다
 population : 인구
+deserve : ~ 을 받을 만하다, 누릴 자격이 있다

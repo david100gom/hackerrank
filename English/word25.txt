@@ -73,3 +73,4 @@ population : 인구
 deserve : ~ 을 받을 만하다, 누릴 자격이 있다
 choke : 숨이 막히다, 질식하다, 질식시키다
 spend + 시간[돈] + 동사 ~ing : ~ 하는데 시간을 보내다[돈을 쓰다]
+purpose : 목적, 의도

@@ -75,3 +75,4 @@ choke : 숨이 막히다, 질식하다, 질식시키다
 spend + 시간[돈] + 동사 ~ing : ~ 하는데 시간을 보내다[돈을 쓰다]
 purpose : 목적, 의도
 smother : 완전히 덮다, 불을 덮어 끄다, 질식사시키다
+pay[give] attention to 명사 ~ 에 주의를 기울이다

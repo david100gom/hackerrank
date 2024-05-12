@@ -4,3 +4,4 @@ take A to B : A를 B로 가져가다[데려가다]
 affect : 영향을 미치다, (정서적) 충격을 주다
 be based on : ~에 기초[근거]하다.
 dangle : 매달(리)다
+ingredient :재료[성분], 구성 요소

@@ -8,3 +8,4 @@ ingredient :재료[성분], 구성 요소
 be supposed to 동사 ~ 하기로 되어 있다, ~ 라고 여겨지다
 prevent : 막다, 예방하다
 dip : 살짝 담그다, 내려가다
+thousands of 수천의

@@ -11,3 +11,5 @@ dip : 살짝 담그다, 내려가다
 thousands of 수천의
 eventually : 마침내, 결국
 soak : 담그다, 빨아들이다
+scoop : 뜨다, 퍼내다, 특종을 보도하다
+

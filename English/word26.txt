@@ -14,3 +14,4 @@ soak : 담그다, 빨아들이다
 scoop : 뜨다, 퍼내다, 특종을 보도하다
 at (the) least : 적어도
 by the way : 그런데
+in addition : 게다가 (=besides, moreover, furthermore)

@@ -32,3 +32,4 @@ make sure : 확실히 ~ 하다, 확인하다
 disperse : 흩어지다, 해산하다
 dispatch : 발송하다, 파견하다
 transport : 운송하다, 수송하다
+transmit : 전송하다, 방송하다

@@ -36,3 +36,5 @@ transmit : 전송하다, 방송하다
 suffer : (고통을) 겪다[경험하다]
 thank A for B : A에게 B에 대해 감사하다
 male/female : 남성/여성
+be good at : ~ 에 능숙하다, 잘하다
+

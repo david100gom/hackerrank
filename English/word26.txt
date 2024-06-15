@@ -38,3 +38,4 @@ thank A for B : A에게 B에 대해 감사하다
 male/female : 남성/여성
 be good at : ~ 에 능숙하다, 잘하다
 tiny : 아주 작은
+transplant : 이식하다, 옮겨 심다

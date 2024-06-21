@@ -44,3 +44,4 @@ after all : 결국, 어쨌든
 similar : 비슷한, 유사한
 at once : 즉시, 곧, 동시에, 한꺼번에
 expert : 전문가
+on the other hand : 한편[반면에]

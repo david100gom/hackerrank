@@ -49,3 +49,4 @@ propel : 나아가게 하다 [추진하다]
 thrust : 밀치다, 찌르다
 character : 성격, 특성, 인물, 글자
 these days : 요즘
+variety : 다양(성)

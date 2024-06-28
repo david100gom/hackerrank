@@ -1,4 +1,4 @@
-heap : 쌓아 올리다
+drag : 끌다heap : 쌓아 올리다
 relax : 쉬다, 안심하다, 긴장을 풀다
 take A to B : A를 B로 가져가다[데려가다]
 affect : 영향을 미치다, (정서적) 충격을 주다
@@ -52,3 +52,4 @@ these days : 요즘
 variety : 다양(성)
 lead to : ~에 이르다, 초래하다
 pay for : ~의 값을 치르다, 지불하다
+drag : 끌다

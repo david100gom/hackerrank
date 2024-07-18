@@ -70,3 +70,4 @@ grip : 꽉 잡다
 separate : 분리된, 별개의, 분리하다[분리되다], 가르다[갈라지다]
 at the same time : 동시에 (at once)
 polite : 예의 바른[공손한]
+in other words : 바꿔 말하면[즉]

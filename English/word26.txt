@@ -74,3 +74,4 @@ in other words : 바꿔 말하면[즉]
 disabled : 장애가 있는
 grab : 잡아채다[움켜쥐다]
 manipulate : 다루다[조작하다], 조종하다
+one another : 서로

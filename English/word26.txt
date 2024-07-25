@@ -77,3 +77,4 @@ manipulate : 다루다[조작하다], 조종하다
 one another : 서로
 merely : 단지(=only, just)
 agree with : ~ (의 의견)에 동의하다.
+ask for : 요구하다, 요청하다

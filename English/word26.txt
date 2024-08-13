@@ -96,3 +96,4 @@ pat : 쓰다듬다, 토닥거리다
 punch : 주먹으로 치다, 구멍을 뚫다.
 be sure of[about]/(that) : 확신하다
 recognize : 알아보다, 인정하다
+slam : 꽝 닫(히)다, 세게 놓다

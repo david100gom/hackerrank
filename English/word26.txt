@@ -98,3 +98,4 @@ be sure of[about]/(that) : 확신하다
 recognize : 알아보다, 인정하다
 slam : 꽝 닫(히)다, 세게 놓다
 spank : (손바닥으로) 엉덩이를 때리다
+due to  : ~ 때문에

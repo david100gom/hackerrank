@@ -103,3 +103,4 @@ smash : 박살내다[나다], 세게 (부딪)치다
 collide : 충돌하다
 as [so] long as : ~ 하기만 하면[~ 하는 한], ~ 하는 동안
 at last : 마침내, 드디어
+commercial : 상업의, 광고방송

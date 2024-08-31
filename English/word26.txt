@@ -113,3 +113,4 @@ responsible : 책임 있는, 원인이 되는
 escape from : ~에서 도망가다, 따뜻하게 하다
 warm up : 준비 운동을 하다, 따뜻하게 하다
 slash : (거칠게) 베다, 대폭 줄이다
+crook : 구부리다, 사기꾼 

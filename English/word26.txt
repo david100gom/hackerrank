@@ -116,3 +116,4 @@ slash : (거칠게) 베다, 대폭 줄이다
 crook : 구부리다, 사기꾼 
 tilt : 기울(이)다
 manage to 동사 : 이럭저럭[가까스로] ~ 하다
+equipment : 장비[설비]

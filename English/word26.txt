@@ -117,3 +117,4 @@ crook : 구부리다, 사기꾼
 tilt : 기울(이)다
 manage to 동사 : 이럭저럭[가까스로] ~ 하다
 equipment : 장비[설비]
+take it easy : 느긋하게 하다, 진정하다, (작별 인사) 안녕

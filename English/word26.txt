@@ -119,3 +119,4 @@ manage to 동사 : 이럭저럭[가까스로] ~ 하다
 equipment : 장비[설비]
 take it easy : 느긋하게 하다, 진정하다, (작별 인사) 안녕
 divide A into B : A를 B로 나누다
+have something/nothing to do with : ~ 와 관계가 있다/없다

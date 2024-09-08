@@ -122,3 +122,4 @@ divide A into B : A를 B로 나누다
 have something/nothing to do with : ~ 와 관계가 있다/없다
 stroll : 거닐다 [산책하다]
 shuffle : 발을 질질 끌며 걷다
+effective : 효과적인, 시행되는

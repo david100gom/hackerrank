@@ -124,3 +124,4 @@ stroll : 거닐다 [산책하다]
 shuffle : 발을 질질 끌며 걷다
 effective : 효과적인, 시행되는
 be proud of : ~을 자랑스럽게 여기다
+familiar : 친숙한[잘 알고 있는]

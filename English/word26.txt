@@ -127,3 +127,4 @@ be proud of : ~을 자랑스럽게 여기다
 familiar : 친숙한[잘 알고 있는]
 in general : 일반적으로
 organism : 유기체[생물]
+bachelor : 학사, 미혼남

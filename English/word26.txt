@@ -130,3 +130,4 @@ organism : 유기체[생물]
 bachelor : 학사, 미혼남
 fallout : 낙진, 좋지 못한 결과
 representative : 대표, 대표하는, 전형적인
+descend : 내려가다, 내려오다

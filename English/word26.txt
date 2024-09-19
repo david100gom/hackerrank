@@ -132,3 +132,4 @@ fallout : 낙진, 좋지 못한 결과
 representative : 대표, 대표하는, 전형적인
 descend : 내려가다, 내려오다
 bound : 껑충껑충 달리다, 한계[한도], 꼭 ~ 할 것 같은, ~ 행의
+every time : ~ 할 때마다. 언제나

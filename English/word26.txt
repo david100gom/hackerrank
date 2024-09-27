@@ -140,3 +140,4 @@ some day [someday] : (미래의) 언젠가[훗날]
 best of all : 무엇보다도 (가장 좋은), 특히, 첫째로
 all over the world : 전 세계에
 court : 법정,법원, 경기장, 코드, 궁정
+focus on : ~에 초점을 맞추다, ~에 집중하다

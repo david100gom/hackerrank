@@ -147,3 +147,4 @@ result in : ~의 결과를 가져오다
 sound like : ~ 처럼 들리다, ~ 인 것 같다
 take off : (옷 따위를) 벗다, 이륙하다
 sprint : 단거리를 전력 질주하다
+make it : 해내다, 성공하다, 시간에 대다

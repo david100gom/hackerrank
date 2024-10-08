@@ -151,3 +151,4 @@ make it : 해내다, 성공하다, 시간에 대다
 sprint : 단거리를 전력 질주히다
 flee : 달아니다[도망치다]
 play a role : 역할을 하다
+keep ~ in mind : 명심하다, 염두에 두다

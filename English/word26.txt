@@ -153,3 +153,4 @@ flee : 달아니다[도망치다]
 play a role : 역할을 하다
 keep ~ in mind : 명심하다, 염두에 두다
 trace : 찾아내다, 추적하다, 거슬러 올라가다
+provide A with B : A(사람, 사물)에게 B(사물)을 공급[제공]하다

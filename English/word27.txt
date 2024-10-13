@@ -1,3 +1,4 @@
 prefer to A(동사) (rather than B(동사)) : (B 하기보다) A 하기를 더 좋아한다.
 crawl : 기다
 creep : 살금살금 움직이다, 기다
+be covered with : ~ 로 덮여 있다.

@@ -3,3 +3,4 @@ crawl : 기다
 creep : 살금살금 움직이다, 기다
 be covered with : ~ 로 덮여 있다.
 be responsible for : ~에 책임이 있다, 책임지고 있다, ~의 원인이 되다
+be worried about : ~에 대해 걱정하다

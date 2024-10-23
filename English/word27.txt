@@ -10,3 +10,4 @@ glide : 미끄러지듯 움직이다, 활공하다
 skid : (차가) 미끄러지다
 on your[the] way (to 명사) : (~로 가는) 도중에
 specific : 특정한, 구체적인
+in short : 간단히 말하면[요컨대]

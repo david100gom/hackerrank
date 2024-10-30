@@ -17,3 +17,4 @@ stumble : 비틀거리다, 말을 더듬다
 plunge : 추락하다, 급락하다, 뛰어들다
 get back : 돌아오다[가다], 돌려받다[되찾다]
 arrive at[in] : ~ 에 도착하다
+possibility : 가능성

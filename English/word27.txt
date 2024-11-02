@@ -20,3 +20,4 @@ arrive at[in] : ~ 에 도착하다
 possibility : 가능성
 figure out : ~로 드러나다, 밝혀지다, 생산하다, (전등/수도 등을) 끄다[잠그다]
 be about to : 막 ~ 하려고 한다.
+rotate : 돌(리)다, 회전하다, 교대로 하다

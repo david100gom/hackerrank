@@ -24,3 +24,4 @@ rotate : 돌(리)다, 회전하다, 교대로 하다
 revolve : 돌[리다], 회전하다
 make a [your] decision : 결정[결심]하다
 make[give, deliver] a speech
+cause A to B : A 가 B하게 하다 

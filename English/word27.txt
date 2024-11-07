@@ -25,3 +25,4 @@ revolve : 돌[리다], 회전하다
 make a [your] decision : 결정[결심]하다
 make[give, deliver] a speech
 cause A to B : A 가 B하게 하다 
+compare A with [to] B [명사] : A를 B와 비교하다

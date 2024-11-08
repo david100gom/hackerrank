@@ -28,3 +28,4 @@ cause A to B : A 가 B하게 하다
 compare A with [to] B [명사] : A를 B와 비교하다
 swirl : 빙빙 돌(리)다[소용돌이 치다]
 be concerned about : ~ 에 대해 염려[걱정]하다
+whirl : 빙빙[휙휙] 돌(리)다

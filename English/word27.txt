@@ -32,3 +32,4 @@ whirl : 빙빙[휙휙] 돌(리)다
 frown : 눈산을 찌푸리다, 찌푸림
 be expected to 동사 : ~라고 예상[기대]되다
 be willing to 동사 : 기꺼이 ~ 하다
+a variety of 다양한

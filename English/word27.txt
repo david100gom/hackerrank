@@ -41,3 +41,4 @@ all day[long] : 하루 종일
 at a time : 한번에
 glare : 노려보다, 눈이 부시게 빛나다
 in time : 때를 맞춰, 늦지 않게
+be from : ~ 에서 오다, ~ 출신이다

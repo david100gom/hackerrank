@@ -50,3 +50,4 @@ set out : 출발하다, 떠나다, 시작하다, 착수하다, (음식 등을) �
 get married (to 명사) : (~와) 결혼하다
 do one's homwork : 숙제를 하다
 every day : 매일, 날마다
+keep a diary :일기를 쓰다

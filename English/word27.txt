@@ -49,3 +49,4 @@ go ahead : 앞서 가다, 진행되다[진행시키다]
 set out : 출발하다, 떠나다, 시작하다, 착수하다, (음식 등을) 차려 놓다
 get married (to 명사) : (~와) 결혼하다
 do one's homwork : 숙제를 하다
+every day : 매일, 날마다

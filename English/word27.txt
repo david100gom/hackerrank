@@ -55,3 +55,4 @@ ought to 동사 : ~ 해야 한다.
 sob : 흐느껴 울다, 흐느끼며 말하다
 take part in : ~에 참가하다
 keep A from B (동사 ~ing)  A 가 B 하는 것을 막다 [못하게 하다]
+inhale : 들이쉬다

@@ -59,3 +59,4 @@ inhale : 들이쉬다
 gasp : 헉 하고 숨을 쉬다[헐떡이다]
 participate : 참가하다 참여하다
 be followed by ~ 을 앞서다[다음에 ~ 이 이어지다]
+snore : 코를 골다

@@ -61,3 +61,4 @@ participate : 참가하다 참여하다
 be followed by ~ 을 앞서다[다음에 ~ 이 이어지다]
 snore : 코를 골다
 be sure to 동사 : 반드시 ~ 하다
+sneeze : 재채기를 하다

@@ -63,3 +63,4 @@ snore : 코를 골다
 be sure to 동사 : 반드시 ~ 하다
 sneeze : 재채기를 하다
 get up : 일어나다
+go to bed : 잠자리에 들다

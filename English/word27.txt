@@ -67,3 +67,4 @@ go to bed : 잠자리에 들다
 at time : 때때로, 가끔
 more than : ~ 보다 많은[~ 이상]
 how often : 얼마나 자주
+listen to : ~을 귀 기울여 듣다

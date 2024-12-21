@@ -70,3 +70,4 @@ how often : 얼마나 자주
 listen to : ~을 귀 기울여 듣다
 redundancy : 정리해고, 불필요한 중복
 live in : ~에 살다
+look at : ~을 보다

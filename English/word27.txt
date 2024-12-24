@@ -72,3 +72,4 @@ redundancy : 정리해고, 불필요한 중복
 live in : ~에 살다
 look at : ~을 보다
 in the end : 끝내, 마침내, 결국
+at the age of : ~살 때는

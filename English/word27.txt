@@ -86,3 +86,4 @@ feel like : ~ 하고 싶다, ~하는 느낌이 들다, ~인[일] 것 같다.
 wait for :~ 을 기다리다
 a lot : 많이, 광장히 
 look around : 둘러보다[구경하다], 찾아다니다
+rely on[upon] : ~에 의지[의존]하다

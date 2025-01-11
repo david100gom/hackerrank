@@ -90,3 +90,4 @@ rely on[upon] : ~에 의지[의존]하다
 respond to 명사 : ~에 대답[응답]하다, ~에 반응하다
 put up : 올리다, 세우다, 게시하다, 내붙이다
 gain[put on]/lose weight : 체중이 늘다/줄다
+a lot of : 많은 ~

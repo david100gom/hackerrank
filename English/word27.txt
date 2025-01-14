@@ -93,3 +93,4 @@ gain[put on]/lose weight : 체중이 늘다/줄다
 a lot of : 많은 ~
 because of : ~ 때문에
 have an effect[impact] on: ~에 영향을 미치다
+have fun : 재미있게 놀다

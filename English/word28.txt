@@ -4,3 +4,4 @@ draw a picture : 그림을 그리다.
 how many : 얼마나 많은
 regardless of :~에 관계없이
 in the newspaper : 신문에서
+leave for : ~을 향해 떠나다[출발하다]

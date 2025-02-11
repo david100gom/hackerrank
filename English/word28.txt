@@ -12,3 +12,4 @@ go away : 떠나가다, 없어지다, 사라지다
 play with : ~와 놀다, 장난하다
 right now : 지금 당장
 make up : 구성하다[이루다], 만들어내다[지어내다], 화장하다
+slow down : (속도를) 늦추다

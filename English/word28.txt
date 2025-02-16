@@ -18,3 +18,4 @@ let go (of) : 놓다[놓아주다]
 take place : (사건 등이) 일어나다, (행사 등이) 열리다
 sit on : ~ 에 앉다
 take a rest : 휴식을 취하다
+take (full) advantage of : (충분히) 이용하다

@@ -23,3 +23,4 @@ refer A to B : A를 B라고 부르다
 be[feel] ashamed of : 부끄러워하다
 be due to 동사 : ~ 할 예정이다 
 be related to 명사 : ~와 관계[관련]가 있다. ~와 친척 간이다
+after lunch[dinner] : 점심[저녁] 식사 후에
